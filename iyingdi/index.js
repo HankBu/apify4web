@@ -1,6 +1,5 @@
 import { Actor } from 'apify';
 import { PlaywrightCrawler } from 'crawlee';
-
 await Actor.init();
 
 // const crawler = new PlaywrightCrawler({
@@ -15,12 +14,10 @@ await Actor.init();
 // });
 // await crawler.run(['https://movie.douban.com/']);
 
-
 const sources = [
   { url: 'https://movie.douban.com/subject/36081094' },
   { url: 'https://movie.douban.com/subject/36208094/' },
 ];
-// const requestList = await RequestList.open('target-list', sources);
 const crawler = new PlaywrightCrawler({
   async requestHandler({ request, page, enqueueLinks }) {
     const title = await page.title();
