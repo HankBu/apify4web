@@ -1,0 +1,9 @@
+{
+	"id": "tKg9kUxE1VvhEzR",
+	"json": "{\"id\":\"tKg9kUxE1VvhEzR\",\"url\":\"https://movie.douban.com/subject/36208094/\",\"loadedUrl\":\"https://movie.douban.com/subject/36208094/\",\"uniqueKey\":\"https://movie.douban.com/subject/36208094\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-02-23T04:22:59.987Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://movie.douban.com/subject/36208094",
+	"url": "https://movie.douban.com/subject/36208094/"
+}
