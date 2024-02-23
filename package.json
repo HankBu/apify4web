@@ -2,6 +2,9 @@
   "name": "apify4web",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "dev": "node --inspect ./iyingdi/index.js"
+  },
   "dependencies": {
     "apify": "^3.1.15",
     "crawlee": "^3.8.1",

@@ -24,6 +24,7 @@ const sources = [
 const crawler = new PlaywrightCrawler({
   async requestHandler({ request, page, enqueueLinks }) {
     const title = await page.title();
+    // console.log(request, page, enqueueLinks)
     console.log(`Title of ${request.url}: ${title}`);
   },
 });
