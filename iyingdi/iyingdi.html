@@ -3206,7 +3206,7 @@
       const srcList = [];
       $('a').each(function () {
         const href = $(this).attr('href');
-        srcList.push(`https://www.iyingdi.com${href}`);
+        srcList.push({ url: `https://www.iyingdi.com${href}` });
       });
       console.log(srcList);
 
@@ -3220,7 +3220,7 @@
         // 创建一个下载链接并模拟点击
         const link = $('<a></a>');
         link.attr('href', url);
-        link.attr('download', 'iyingdi.json');
+        link.attr('download', 'iyingdi.js');
         link[0].click();
       });
     });

@@ -1,30 +1,24 @@
-import {srcList} from './iyingdi.js';
+import { srcList } from './iyingdi.js';
 import { Actor } from 'apify';
 import { PlaywrightCrawler } from 'crawlee';
 await Actor.init();
 
-// const crawler = new PlaywrightCrawler({
-//     async requestHandler({ request, page, enqueueLinks }) {
-//         // Extract HTML title of the page.
-//         const title = await page.title();
-//         console.log(`Title of ${request.url}: ${title}`);
-
-//         // Add URLs that point to the same hostname.
-//         await enqueueLinks();
-//     },
-// });
-// await crawler.run(['https://movie.douban.com/']);
-
-console.log(srcList.slice(0, 2));
-
 const sources = srcList.slice(0, 2);
+console.log(JSON.stringify(sources, null, 2));
+
 const crawler = new PlaywrightCrawler({
-  async requestHandler({ request, page, enqueueLinks }) {
-    const title = await page.title();
-    // console.log(request, page, enqueueLinks)
-    console.log(`Title of ${request.url}: ${title}`);
+  // 限制请求并发量最大值
+  maxRequestsPerCrawl: 20,
+  async requestHandler({ request, page }) {
+    const { url } = request;
+    console.log(`Processing ${url}...`);
+    // 获取页面的HTML内容
+    const content = await page.content();
+    console.log(content);
+  },
+  failedRequestHandler: async (_, error) => {
+    console.error("requestHandler 出错：", error);
   },
 });
 await crawler.run(sources);
-
 await Actor.exit();

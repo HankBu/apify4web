@@ -17,6 +17,8 @@ npx playwright install --with-deps
 https://github.com/apify/apify-sdk-js/blob/master/packages/apify/README.md
 https://docs.apify.com/sdk/js/docs/next/guides/request-storage
 https://docs.apify.com/sdk/js/docs/examples/add-data-to-dataset
+基本用法
+https://kejiweixun.com/blog/introduction-to-crawlee-and-how-to-deploy-it-to-serverless-function
 
 # 卡牌链接
 腾讯文档
