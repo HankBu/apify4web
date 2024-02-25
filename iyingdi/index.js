@@ -1,3 +1,4 @@
+import {srcList} from './iyingdi.js';
 import { Actor } from 'apify';
 import { PlaywrightCrawler } from 'crawlee';
 await Actor.init();
@@ -14,10 +15,9 @@ await Actor.init();
 // });
 // await crawler.run(['https://movie.douban.com/']);
 
-const sources = [
-  { url: 'https://movie.douban.com/subject/36081094' },
-  { url: 'https://movie.douban.com/subject/36208094/' },
-];
+console.log(srcList.slice(0, 2));
+
+const sources = srcList.slice(0, 2);
 const crawler = new PlaywrightCrawler({
   async requestHandler({ request, page, enqueueLinks }) {
     const title = await page.title();
