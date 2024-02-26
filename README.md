@@ -15,10 +15,17 @@ npx playwright install --with-deps
 
 # 爬虫链接
 https://github.com/apify/apify-sdk-js/blob/master/packages/apify/README.md
+官方文档
+https://crawlee.dev/docs/next/quick-start
 https://docs.apify.com/sdk/js/docs/next/guides/request-storage
 https://docs.apify.com/sdk/js/docs/examples/add-data-to-dataset
 基本用法
 https://kejiweixun.com/blog/introduction-to-crawlee-and-how-to-deploy-it-to-serverless-function
+
+# ip 资源池
+https://github.com/jhao104/proxy_pool
+站大爷免费ip
+https://www.zdaye.com/free/?checktime=2&sleep=3
 
 # 卡牌链接
 腾讯文档

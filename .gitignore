@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 # hank
+.DS_Store
 storage
