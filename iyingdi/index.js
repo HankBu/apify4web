@@ -1,10 +1,14 @@
-import { srcList } from './iyingdi.js';
-import * as cheerio from 'cheerio';
 import { Actor } from 'apify';
 import { PlaywrightCrawler, ProxyConfiguration, Dataset } from 'crawlee';
-await Actor.init();
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
+import * as cheerio from 'cheerio';
+import Papa from 'papaparse';
+import { srcList } from './iyingdi.js';
 
-const sources = srcList.slice(33, 36);
+await Actor.init();
+const sources = srcList.slice(77, 79);
 const proxyConfiguration = new ProxyConfiguration({
   proxyUrls: ['http://49.7.11.187:80', 'http://49.7.11.187:80'],
 });
@@ -21,7 +25,7 @@ const crawler = new PlaywrightCrawler({
     // 获取页面的HTML内容
     const content = await page.content();
     const $ = cheerio.load(content);
-    const cardImgSrc = $('.marvel-card-detail-page .card-img').eq(0).attr('src')
+    const cardImgSrc = $('.marvel-card-detail-page .card-img').eq(0).attr('src');
     const $targetDivs = $('.relative.w-60 div');
     const cardName = $targetDivs.eq(0).text();
     const $infoItems = $targetDivs.find('.info-item');
@@ -60,13 +64,22 @@ const crawler = new PlaywrightCrawler({
     console.error('requestHandler 出错：', error);
   },
 });
-await crawler.run(sources);
+// await crawler.run(sources);
 // 遍历结果集
 const allCards = [];
 const moonDataset = await Dataset.open('moon');
 await moonDataset.forEach(async (item, index) => {
   allCards.push(item);
 });
-console.log(allCards);
+// JSON to CSV
+const csvData = Papa.unparse(allCards);
+const utf8WithBom = '\ufeff' + csvData;
+const currentDir = dirname(fileURLToPath(import.meta.url));
+const outputPath = join(currentDir, 'iyingdi.csv');
+try {
+  fs.writeFileSync(outputPath, utf8WithBom, 'utf8');
+  console.log('CSV file saved.');
+} catch (error) {
+  console.error('Error writing CSV file:', error);
+}
 await Actor.exit();
-
