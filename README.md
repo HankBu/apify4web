@@ -24,8 +24,8 @@ https://kejiweixun.com/blog/introduction-to-crawlee-and-how-to-deploy-it-to-serv
 
 # ip 资源池
 https://github.com/jhao104/proxy_pool
-站大爷免费ip
-https://www.zdaye.com/free/?checktime=2&sleep=3
+站大爷免费ip (用普通匿名 80端口 好用免费)
+https://www.zdaye.com/free/?checktime=2&sleep=3&dengji=2
 
 # 卡牌链接
 腾讯文档
