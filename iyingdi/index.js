@@ -8,14 +8,16 @@ import Papa from 'papaparse';
 import { srcList } from './iyingdi.js';
 
 await Actor.init();
-const sources = srcList.slice(77, 79);
+// 目标页面列表
+const sources = srcList.slice(0, 10);
+// 代理
 const proxyConfiguration = new ProxyConfiguration({
-  proxyUrls: ['http://49.7.11.187:80', 'http://49.7.11.187:80'],
+  proxyUrls: ['http://123.126.158.50:80'],
 });
-
+// 爬虫
 const crawler = new PlaywrightCrawler({
-  // proxyConfiguration,
-  maxConcurrency: 5, // 最大并发
+  proxyConfiguration,
+  // maxConcurrency: 5, // 最大并发
   // maxRequestsPerMinute: 1, // 每分钟应运行的最大请求数
   // maxRequestsPerCrawl: 20, // 爬网程序将打开的最大页面数。当达到此限制时，爬网将停止。
   // requestHandlerTimeoutSecs: 60, // 最多执行 60 秒
@@ -64,14 +66,15 @@ const crawler = new PlaywrightCrawler({
     console.error('requestHandler 出错：', error);
   },
 });
-// await crawler.run(sources);
-// 遍历结果集
+await crawler.run(sources);
+/**
+ * JSON to CSV
+ */
 const allCards = [];
 const moonDataset = await Dataset.open('moon');
 await moonDataset.forEach(async (item, index) => {
   allCards.push(item);
 });
-// JSON to CSV
 const csvData = Papa.unparse(allCards);
 const utf8WithBom = '\ufeff' + csvData;
 const currentDir = dirname(fileURLToPath(import.meta.url));
@@ -82,4 +85,5 @@ try {
 } catch (error) {
   console.error('Error writing CSV file:', error);
 }
+// END
 await Actor.exit();

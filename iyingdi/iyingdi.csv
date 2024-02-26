@@ -1,3 +1,23 @@
 ﻿cardName,cardImgSrc,type,race,rarity,desc
-白骨龙灵,https://pic.iyingdi.com/gadgets-admin/undefined/532baa267cd947dcb4361614072263fc-白骨龙灵.png,随从,龙,6,遗言：使1个友方获得该随从的属性值
 幽龙,https://pic.iyingdi.com/gadgets-admin/undefined/7af98b5bc2c845c9a765f0f8131095f7-1696926324364.jpg,随从,龙,4,击杀：随机触发1个友方的遗言效果
+白骨龙灵,https://pic.iyingdi.com/gadgets-admin/undefined/532baa267cd947dcb4361614072263fc-白骨龙灵.png,随从,龙,6,遗言：使1个友方获得该随从的属性值
+魔法树苗,https://pic.iyingdi.com/gadgets-admin/undefined/adcac8c38845413ca77942c7ed08082c-图层 4.png,随从,自然,1,成长：+1生命
+小石精,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小石精.png,随从,自然,2,攻击后，对所有其他随从造成1点伤害
+强袭飞龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/强袭飞龙.png,随从,龙,5,攻击时获得护盾，若已有护盾，再获得+10+10
+伐木工叔叔,https://pic.iyingdi.com/gadgets-admin/undefined/4a49c7e9fe4c459ab294d1e075273b0a-1696929220018.jpg,随从,战士,1,护盾
+地狱三头犬,https://pic.iyingdi.com/gadgets-admin/undefined/9ad258b1aea746b2a014cc51ec284a26-3.jpg,随从,野兽,4,横扫成长：+4攻击
+怒熊,https://pic.iyingdi.com/gadgets-admin/undefined/600127b4173749b8907187a79bf90b64-图层 6.png,随从,野兽,4,遗言：造成3点伤害2次。成长：获得1层增伤
+罗生门,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/罗生门.png,随从,幽灵,2,友方攻击时，其获得+2+1
+孢子小姐,https://pic.iyingdi.com/gadgets-admin/undefined/16f3dfd804bd49a0b131f0cd2d00626e-孢子小姐.png,随从,自然,5,失去生命且未死亡时，获得护盾
+钢筋铁甲,https://pic.iyingdi.com/gadgets-admin/undefined/78c176e08aff43dc866f1cc8f17a4eb0-图层 12.png,随从,机械,5,装备槽+1，成长：每装备1张装备牌获得+3+3
+受祝福的勇士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/受祝福的勇士.png,随从,战士,6,入场：获得其他友方攻击之和的一半的生命
+魔法树苗,https://pic.iyingdi.com/gadgets-admin/undefined/adcac8c38845413ca77942c7ed08082c-图层 4.png,随从,自然,1,成长：+1生命
+小石精,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小石精.png,随从,自然,2,攻击后，对所有其他随从造成1点伤害
+伐木工叔叔,https://pic.iyingdi.com/gadgets-admin/undefined/4a49c7e9fe4c459ab294d1e075273b0a-1696929220018.jpg,随从,战士,1,护盾
+强袭飞龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/强袭飞龙.png,随从,龙,5,攻击时获得护盾，若已有护盾，再获得+10+10
+地狱三头犬,https://pic.iyingdi.com/gadgets-admin/undefined/9ad258b1aea746b2a014cc51ec284a26-3.jpg,随从,野兽,4,横扫成长：+4攻击
+怒熊,https://pic.iyingdi.com/gadgets-admin/undefined/600127b4173749b8907187a79bf90b64-图层 6.png,随从,野兽,4,遗言：造成3点伤害2次。成长：获得1层增伤
+罗生门,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/罗生门.png,随从,幽灵,2,友方攻击时，其获得+2+1
+孢子小姐,https://pic.iyingdi.com/gadgets-admin/undefined/16f3dfd804bd49a0b131f0cd2d00626e-孢子小姐.png,随从,自然,5,失去生命且未死亡时，获得护盾
+钢筋铁甲,https://pic.iyingdi.com/gadgets-admin/undefined/78c176e08aff43dc866f1cc8f17a4eb0-图层 12.png,随从,机械,5,装备槽+1，成长：每装备1张装备牌获得+3+3
+耐心蜘蛛,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/耐心蜘蛛.png,随从,野兽,1,遗言：造成2点伤害
