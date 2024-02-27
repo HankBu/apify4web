@@ -1,0 +1,452 @@
+cardName,cardImgSrc,type,race,rarity,desc
+机器人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机器人.png,随从,机械,1,遗言：召唤1个2星随从
+机械熊仔,https://pic.iyingdi.com/gadgets-admin/undefined/729028e005d8480aa6c27bb1ddc32370-1703646748057.jpg,随从,机械,1,击杀：永久+1生命
+小型炮弹,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小型炮弹.png,随从,机械,2,附着，遗言：造成3点伤害
+科研装置,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/科研装置.png,随从,机械,2,成长：获得1点经验
+发条机械,https://pic.iyingdi.com/gadgets-admin/undefined/9b1331516f1d4683b8d023ea3591e3b9-QQ浏览器截图20240223210627.png,随从,机械,2,入场：获得1张随机2星随从
+机械兔,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械兔.png,随从,机械,3,遗言：造成20点伤害
+机械信使,https://pic.iyingdi.com/gadgets-admin/undefined/0f974d355b67402aa9adfb26a155dbf7-1698736483189.jpg,随从,机械,3,入场：随机使2个其他友方获得+3+2
+充能炮,https://pic.iyingdi.com/gadgets-admin/undefined/a14235e972bb42c9ba1b1d08ce181077-充能炮.png,随从,机械,3,友方死亡时，对随机敌方造成2点伤害
+全副武装,https://pic.iyingdi.com/gadgets-admin/undefined/364898eacd8e40a9bbb75e40e70424d7-1696924176725.jpg,随从,机械,3,附着，每装备1件装备，获得+2+2
+零件商贩,https://pic.iyingdi.com/gadgets-admin/undefined/e92ddf25a9e042c4beff5dcbfa233c72-图层 12.png,随从,机械,3,每在战斗中召唤1个随从，获得1金币
+智能机器人,https://pic.iyingdi.com/gadgets-admin/undefined/f62c426a6b284ce2a05d0489c02e6078-图层 8.png,随从,机械,4,遗言：友方获得+2+2及2层增伤
+防御要塞,https://pic.iyingdi.com/gadgets-admin/undefined/22e00ab5da3a45f98fc5a7449eeb949a-1696924756645.jpg,随从,机械,4,嘲讽，遗言：对随机敌人造成等同于攻击力的伤害
+弱点侦察机,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弱点侦察机.png,随从,机械,4,附着，成长：所有友方+1攻击
+机械犬,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械犬.png,随从,机械,4,遗言：召唤1个随机遗言随从。
+拾荒者,https://pic.iyingdi.com/gadgets-admin/undefined/3211e59d475347808a6ac3f2712fcd4a-图层 18.png,随从,机械,4,友方遗言随从死亡时，该随从永久获得+2+4
+玩具商人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/玩具商人.png,随从,机械,4,你的其他机械具有遗言：召唤1个随机随从
+扳手助理,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/扳手助理.png,随从,机械,4,在你对友方使用附着随从后，获得1个随机随从
+智慧星,https://pic.iyingdi.com/gadgets-admin/undefined/151db7337af4497980159a66592cc818-智慧星.jpg,随从,机械,4,冥想1回合：获得1张随机附着牌并使手中随从牌获得+4+4
+钢筋铁甲,https://pic.iyingdi.com/gadgets-admin/undefined/78c176e08aff43dc866f1cc8f17a4eb0-图层 12.png,随从,机械,5,装备槽+1，成长：每装备1张装备牌获得+3+3
+改装师,https://pic.iyingdi.com/gadgets-admin/undefined/804c83e8a2e546249ee4454c784541f6-QQ浏览器截图20240223210408.png,随从,机械,5,友方攻击时，所有友方获得1层增伤
+铁皮人,https://pic.iyingdi.com/gadgets-admin/undefined/b14d2304292e48cd8005621f1d8b8837-1696924933164.jpg,随从,机械,5,你的其他机械具有遗言：所有友方获得+2+2
+发条淑女,https://pic.iyingdi.com/gadgets-admin/undefined/ca0e81b9aed84cab949cc0919c899b88-1703646838106.jpg,随从,机械,5,成长：永久使商店所有随从获得+2+2
+扩音器,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/扩音器.png,随从,机械,6,无法攻击，其他友方攻击时，获得扩音器一半攻击力
+炸药飞艇,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/炸药飞艇.png,随从,机械,6,先手：获得同排其他友方的遗言
+钢铁之躯,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/钢铁之躯.png,随从,机械,6,入场：重新附着所有附着牌到该随从身上
+机械套娃,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械套娃.png,随从,机械,6,入场：吞噬1个随从，获得遗言：召唤吞噬的随从的复制
+飞龙幼崽,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飞龙幼崽.png,随从,龙,1,先手：造成3点伤害
+龙语者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/龙语者.png,随从,龙,1,入场：获得1张随机1星随从
+捣蛋龙,https://pic.iyingdi.com/gadgets-admin/undefined/fc7a78b56e1b402db0aef04b50f1ee3f-捣蛋龙.png,随从,龙,1,先手：使第1个友方获得+2+2
+保护之龙,https://pic.iyingdi.com/gadgets-admin/undefined/6b076aa051584d20a8876b6d290e6682-保护之龙.png,随从,龙,2,遗言：使1个友方获得+2+2和护盾
+烈焰雏龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/烈焰雏龙.png,随从,龙,2,遗言：使1个友方获得+3+3以及横扫
+超凡驯龙师,https://pic.iyingdi.com/gadgets-admin/undefined/0d2c1622670240ecafaea86d34fd51ef-1696925848442.jpg,随从,龙,2,友方触发先手效果时，都会永久获得+1+1
+淘气小龙,https://pic.iyingdi.com/gadgets-admin/undefined/d8098f6bcb9343859403b0ba7d4616d4-淘气小龙.jpg,随从,龙,2,先手：每有2点攻击，获得1点生命
+炎翼龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/炎翼龙.png,随从,龙,3,先手：造成4点伤害2次
+法术龙灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/法术龙灵.png,随从,龙,3,附着，先手：获得+3+3
+死亡之龙,https://pic.iyingdi.com/gadgets-admin/undefined/f4e34b13c4ae42198cbc930966378196-1703646334871.jpg,随从,龙,3,遗言：造成4点伤害成长：友方遗言随从获得+2+1
+白骨龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/白骨龙.png,随从,龙,3,嘲讽遗言：使攻击最高的友方获得+7+7
+大地之龙,https://pic.iyingdi.com/gadgets-admin/undefined/9235dc3864b845efbc8d5fd3a0eca356-大地之龙.png,随从,龙,3,每触发1个先手效果，该随从永久获得+1+2
+龙蛋吞噬者,https://pic.iyingdi.com/gadgets-admin/undefined/3079e8ec86fa4c5f969b66749f849ff2-1696926069761.jpg,随从,龙,3,友方遗言随从死亡时，获得1点经验
+守护之龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/守护之龙.png,随从,龙,4,先手：所有友方获得+3+3
+风龙,https://pic.iyingdi.com/gadgets-admin/undefined/51a5d5083eb146469030f5541ff38239-图层 6.png,随从,龙,4,友方具有击杀：+1经验
+幽龙,https://pic.iyingdi.com/gadgets-admin/undefined/7af98b5bc2c845c9a765f0f8131095f7-1696926324364.jpg,随从,龙,4,击杀：随机触发1个友方的遗言效果
+龙骑士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/龙骑士.png,随从,龙,4,附着，附着后，所有友方获得+2+2
+水之龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/水之龙.png,随从,龙,4,先手：同列的另1个友方获得+10+10
+龙语诗人,https://pic.iyingdi.com/gadgets-admin/undefined/549cc615f2fb45d0a94fc04531cc8706-龙语诗人.jpg,随从,龙,4,冥想2回合：获得5星和6星随从各1张
+强袭飞龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/强袭飞龙.png,随从,龙,5,攻击时获得护盾，若已有护盾，再获得+10+10
+噬魂之龙,https://pic.iyingdi.com/gadgets-admin/undefined/b4fc32afd4b74d14bb4fd9ca2345cfcd-1703646254958.jpg,随从,龙,5,无法攻击，友方遗言随从死亡时，随机友方随从获得其一半属性值
+圣龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/圣龙.png,随从,龙,5,先手：使2个随机友方获得护盾
+赐福者,https://pic.iyingdi.com/gadgets-admin/undefined/d9c67766232e4305aa1bf2f7cee9e06c-赐福者.png,随从,龙,5,该随从在战斗中获得属性值时，使1个非赐福者友方获得相同属性值
+灾厄巨龙,https://pic.iyingdi.com/gadgets-admin/undefined/ad8e8d1405054807b092f0761a460434-1696926524366.jpg,随从,龙,5,攻击后，触发同排其他友方的先手效果
+栖湖古龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/栖湖古龙.png,随从,龙,6,友方先手效果触发2次*
+白骨龙灵,https://pic.iyingdi.com/gadgets-admin/undefined/532baa267cd947dcb4361614072263fc-白骨龙灵.png,随从,龙,6,遗言：使1个友方获得该随从的属性值
+雌火龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雌火龙.png,随从,龙,6,成长：获得+2+2先手：第1个其他友方获得该随从一半的属性值
+龙骑士队长,https://pic.iyingdi.com/gadgets-admin/undefined/8a5b2b5b423c44d49fcc9475d64061b2-1696926591637.jpg,随从,龙,6,成长：获得1张龙骑士
+祈星师,https://pic.iyingdi.com/gadgets-admin/undefined/862cf55d645f45c68e365225ec437e3e-祈星师.jpg,随从,星裔,1,冥想2回合：获得1张随机星裔牌
+养蝎人,https://pic.iyingdi.com/gadgets-admin/undefined/83379cd2f93a4a8f91e61ebbe6973040-图层 3.png,随从,星裔,1,卖出时，使每种阵营各1各友方获得+2+1
+牧羊人,https://pic.iyingdi.com/gadgets-admin/undefined/e6fcb6651933430b966240fad8d306e8-牧羊人.jpg,随从,星裔,1,冥想2回合：第1个友方获得+2+2
+半人马,https://pic.iyingdi.com/gadgets-admin/undefined/29ca259a8d944ea1ac87d43e71be0787-半人马.jpg,随从,星裔,2,冥想2回合：友方每存在1种阵营，本随从获得+1+1
+宝瓶工匠,https://pic.iyingdi.com/gadgets-admin/undefined/b998bed018ce4d0cb47db05e04cd56e7-图层 6.png,随从,星裔,2,冥想2回合：其他友方获得+2+2
+启明星使,https://pic.iyingdi.com/gadgets-admin/undefined/2eae10a70d804c78b9c45d77b2d2850a-启明星使.jpg,随从,星裔,2,在你升级时，获得1张随机冥想牌
+黄金狮子,https://pic.iyingdi.com/gadgets-admin/undefined/a38d5d37e06941a5b794d7f1506863b8-黄金狮子.jpg,随从,星裔,3,冥想2回合：友方每存在1种阵营，获得1金币
+双子骑士,https://pic.iyingdi.com/gadgets-admin/undefined/05a4f1f9944d425eb353bace8e7f0d21-双子骑士.jpg,随从,星裔,3,成长：友方双子骑士获得+2+3
+许愿星灵,https://pic.iyingdi.com/gadgets-admin/undefined/91df4c2d7fc4498f88c807ab3e6ddfcd-许愿星灵.jpg,随从,星裔,3,附着，附着后，友方冥想加速1回合
+星河巨蟹,https://pic.iyingdi.com/gadgets-admin/undefined/8ee8445fd18c4385a78dcaebb0df7b8b-星河巨蟹.jpg,随从,星裔,3,护盾，冥想2回合：友方获得+4攻击
+冥思者,https://pic.iyingdi.com/gadgets-admin/undefined/3a49349b1da549dd87f7be7380f3e379-图层 13.png,随从,星裔,3,友方冥想每进行1回合，本随从获得+2+3
+星轨测绘师,https://pic.iyingdi.com/gadgets-admin/undefined/3741e8101e6745f7afbfb839ebe192dd-星轨测绘师.jpg,随从,星裔,3,友方冥想每进行1回合，获得1点经验
+银河游鱼,https://pic.iyingdi.com/gadgets-admin/undefined/49046255b52c46a499b1650c3447258e-银河游鱼.jpg,随从,星裔,4,冥想1回合：获得2张冥想随从
+引星者,https://pic.iyingdi.com/gadgets-admin/undefined/aa3d6ee5ce3f4d719c81401313d091d2-引星者.jpg,随从,星裔,4,成长：友方每存在1种阵营，同列另1个友方获得+1+2
+星星射手,https://pic.iyingdi.com/gadgets-admin/undefined/790d237d267646acae9b0ab7986d5bc0-星星射手.jpg,随从,星裔,4,先手：友方每存在1种阵营，造成2点伤害
+流星使者,https://pic.iyingdi.com/gadgets-admin/undefined/e4224a98e9a2409e9406163d20e7d34c-流星使者.jpg,随从,星裔,5,入场：获得1张许愿星灵
+星图画家,https://pic.iyingdi.com/gadgets-admin/undefined/acf7776baca8467a86d003f35644e82f-图层 8.png,随从,星裔,5,入场：刷新商店，出现3张附着牌并使其获得+5+5
+天平守卫,https://pic.iyingdi.com/gadgets-admin/undefined/d6830858c7c549db9f28f1a6ee7c27ad-天平守卫.jpg,随从,星裔,5,使1个友方-10-10，第1个友方获得等同其失去的属性
+星空旅者,https://pic.iyingdi.com/gadgets-admin/undefined/a97705c486cb44b28cfe427887e3a1d4-星空旅者.jpg,随从,星裔,5,抉择：挑选1张冥想牌，或者立即完成场上所有冥想
+太阳之子,https://pic.iyingdi.com/gadgets-admin/undefined/090dab6707be46cfbde5a85e3d4c1e3d-太阳之子.jpg,随从,星裔,5,冥想2回合：同列的另1个友方获得+4+4以及护盾
+智慧国王,https://pic.iyingdi.com/gadgets-admin/undefined/8bf839f97e184f20b47ac457ce6873ab-智慧国王.jpg,随从,星裔,5,友方冥想效果触发2次
+摩羯之影,https://pic.iyingdi.com/gadgets-admin/undefined/7d968201032743789255893982ee5a61-摩羯之影.jpg,随从,星裔,5,冥想2回合：获得+4+4，并重新冥想
+幽冥星使,https://pic.iyingdi.com/gadgets-admin/undefined/076d4bb9dc214d94bdcdce82d5b24299-幽冥星使.jpg,随从,星裔,5,嘲讽，遗言：每种阵营的1个友方永久获得+4+4
+织星天女,https://pic.iyingdi.com/gadgets-admin/undefined/cd60dc26988e4ff78756e0c2ef1e3b1e-QQ浏览器截图20240223210656.png,随从,星裔,5,遗言：获得1张冥想随从
+星系建筑师,https://pic.iyingdi.com/gadgets-admin/undefined/95cba2c801fa40eebf0130bc86b7e0ef-星系建筑师.jpg,随从,星裔,6,对友方使用附着随从时，同时附着给每个阵营各1个友方
+夜空之角,https://pic.iyingdi.com/gadgets-admin/undefined/1856f651564b4f139292322e0919621d-夜空之角.jpg,随从,星裔,6,冥想3回合：同列的另1个友方变为金色
+月光骑士,https://pic.iyingdi.com/gadgets-admin/undefined/53a0daf49cbf446b878288e4acfed651-月光骑士.jpg,随从,星裔,6,冥想1回合：同排其他友方获得＋10+10
+耐心蜘蛛,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/耐心蜘蛛.png,随从,野兽,1,遗言：造成2点伤害
+鹳鸟,https://pic.iyingdi.com/gadgets-admin/undefined/642c71606bcf442684476b412db4dc47-1696926683894.jpg,随从,野兽,1,击杀：造成2点伤害
+水獭,https://pic.iyingdi.com/gadgets-admin/undefined/540b24b40c094609abeac25d015c5f1d-水獭.jpg,随从,野兽,1,入场：获得1点经验
+贪睡蝙蝠,https://pic.iyingdi.com/gadgets-admin/undefined/5cf58dd7f56c417897436563a0819d4b-QQ浏览器截图20240223210519.png,随从,野兽,2,无法攻击，其他友方攻击后，该随从对随机敌方造成2点伤害
+穿山甲弟弟,https://pic.iyingdi.com/gadgets-admin/undefined/6c58c1d5e97c46569373d541a3d200df-QQ浏览器截图20240223210612.png,随从,野兽,2,入场：使1个友方获得+3+3
+蝴蝶看守,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蝴蝶看守.png,随从,野兽,2,遗言：造成2点伤害3次
+蹦蹦鹿,https://pic.iyingdi.com/gadgets-admin/undefined/ace7754ea17b4c838b9198a9b5cedf00-1698736082263.jpg,随从,野兽,2,使用入场牌时，获得1点经验
+萤火虫,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/萤火虫.png,随从,野兽,2,在你升级时，获得1张随机入场牌
+黑马,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑马.png,随从,野兽,3,当友方造成伤害时，该随从获得+1+1
+猎豹,https://pic.iyingdi.com/gadgets-admin/undefined/e1021e3cfae04f238bd7a97cd3b5485e-QQ浏览器截图20240223210458.png,随从,野兽,3,当你使用入场牌时，同排友方获得+1+1
+小蜜蜂,https://pic.iyingdi.com/gadgets-admin/undefined/82deefee9ab74be09d79fe2f36b05127-图层 13.png,随从,野兽,3,附着，1层增伤
+贪财松鼠,https://pic.iyingdi.com/gadgets-admin/undefined/c384d23996f649c6ae0b52acd643d1ee-1696926948511.jpg,随从,野兽,3,入场：获得1金币遗言：获得1金币
+袖珍枪手,https://pic.iyingdi.com/gadgets-admin/undefined/1b42e017c0cb4de68f1555d27a3ad9aa-袖珍枪手.png,随从,野兽,3,攻击时，先对随机3个敌方造成2点伤害
+信鸽,https://pic.iyingdi.com/gadgets-admin/undefined/1ac472e807a04ef0b28163c2e37daf3d-1703649836564.jpg,随从,野兽,3,入场：获得1张随机野兽牌
+地狱三头犬,https://pic.iyingdi.com/gadgets-admin/undefined/9ad258b1aea746b2a014cc51ec284a26-3.jpg,随从,野兽,4,横扫成长：+4攻击
+怒熊,https://pic.iyingdi.com/gadgets-admin/undefined/600127b4173749b8907187a79bf90b64-图层 6.png,随从,野兽,4,遗言：造成3点伤害2次。成长：获得1层增伤
+异国刺客,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/异国刺客.png,随从,野兽,4,遗言：对所有随从造成1点伤害
+丛林枭兽,https://pic.iyingdi.com/gadgets-admin/undefined/f57250220147467f99ed34726a728ef8-丛林枭兽.png,随从,野兽,4,遗言：使随机敌方的属性值减半
+炙火蝎,https://pic.iyingdi.com/gadgets-admin/undefined/3ce04710fc224d70b0d38836e89c85d0-炙火蝎.png,随从,野兽,4,先手：同排友方获得2层增伤
+北极熊,https://pic.iyingdi.com/gadgets-admin/undefined/e4d1ffa6e6da48db9586e5c2ab663213-2.jpg,随从,野兽,4,冥想2回合：友方获得2层增伤
+猫头鹰法师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/猫头鹰法师.png,随从,野兽,5,入场：获得1张随机入场牌
+鼠王,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鼠王.png,随从,野兽,5,友方攻击后，其触发自身遗言
+毒蛇女王,https://pic.iyingdi.com/gadgets-admin/undefined/1b60ce78edce41a4853d6bb752ee0aff-图层 13.png,随从,野兽,5,友方遗言触发时，毒蛇女王永久获得+3+3
+大耳火犬,https://pic.iyingdi.com/gadgets-admin/undefined/fda6f01fe640482390f68427ca13779e-QQ浏览器截图20240223210708.png,随从,野兽,5,入场：使1个友方获得1层增伤，并使其每有1层增伤获得+2+2
+金刚,https://pic.iyingdi.com/gadgets-admin/undefined/bb975a23d7484f2a9d7d3e51bd4cd94a-图层 16.png,随从,野兽,6,其他友方造成伤害时，本随从永久获得+1+1
+火枪支配者,https://pic.iyingdi.com/gadgets-admin/undefined/875aae70cdc040dc908542223c79a753-火枪支配者.png,随从,野兽,6,友方攻击时，该随从对3个敌方造成3点伤害
+老鹦哥,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/老鹦哥.png,随从,野兽,6,同排友方攻击时，获得1张随机入场牌
+野猪,https://pic.iyingdi.com/gadgets-admin/undefined/801b9459230e4a2b843a5f721eabfbd8-野猪.png,随从,野兽,6,攻击后，触发所有友方的入场效果
+鬼火,https://pic.iyingdi.com/gadgets-admin/undefined/2ecd413de5174b6997af30ec5ea8e9ce-1703645688320.jpg,随从,幽灵,1,在你召唤一个随从后，使其+1+1
+亡魂宝箱,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂宝箱.png,随从,幽灵,1,遗言：召唤亡魂
+罗生门,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/罗生门.png,随从,幽灵,2,友方攻击时，其获得+2+1
+夺魂者,https://pic.iyingdi.com/gadgets-admin/undefined/8e2b2173b1a74dbdbedb8a79d5766641-1703649736453.jpg,随从,幽灵,2,疯狂
+冥界使者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/冥界使者.png,随从,幽灵,2,友方死亡时，该随从获得+1+2
+亡魂吹笛者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂吹笛者.png,随从,幽灵,2,入场：你之后召唤的亡魂具有+2+2
+冥界导游,https://pic.iyingdi.com/gadgets-admin/undefined/2af8dad105754ab89a780ba6bdbdf2b8-图层 7.png,随从,幽灵,2,遗言：召唤亡魂并永久使所有亡魂具有+1攻击
+幽灵船长,https://pic.iyingdi.com/gadgets-admin/undefined/85c6b2d1f1734fb2ad879dfd28112b28-幽灵船长.png,随从,幽灵,3,每在战斗中召唤1个随从，永久获得+1+3
+亡魂舞者,https://pic.iyingdi.com/gadgets-admin/undefined/4cb8f80799fb46558c2d7226d48e49ca-1703649316158.jpg,随从,幽灵,3,成长：你之后召唤的亡魂具有+1+1
+灵魂鼓手,https://pic.iyingdi.com/gadgets-admin/undefined/11f5f790db8f4f2c80dbdab42b11fe9b-pvp160.png,随从,幽灵,3,在战斗中召唤随从时，使所有友方获得+2+1
+处刑人,https://pic.iyingdi.com/gadgets-admin/undefined/fc583a70c95b4a4a990bcb8825618eec-处刑人.png,随从,幽灵,3,击杀：同排友方永久获得+1+1
+幽灵大盗,https://pic.iyingdi.com/gadgets-admin/undefined/c4c555c40a29409daed2f559a25cd401-幽灵大盗.png,随从,幽灵,3,击杀：获得1金币
+引路者,https://pic.iyingdi.com/gadgets-admin/undefined/8678255fefe242ad84158fe3b8bc4cd9-图层 9.png,随从,幽灵,3,获得你每次战斗中召唤的首个随从的原始复制
+魂引者,https://pic.iyingdi.com/gadgets-admin/undefined/72d0c418d2d0474098e328bb8a7120d9-魂引者.png,随从,幽灵,4,友方攻击时，所有友方获得+1+1
+亡魂音乐盒,https://pic.iyingdi.com/gadgets-admin/undefined/f14e4df496804223af92b8b180bdec6b-亡魂音乐盒.png,随从,幽灵,4,入场：使1个友方获得遗言：召唤亡魂
+亡魂执政官,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂执政官.png,随从,幽灵,4,遗言：召唤亡魂击杀：之后召唤的亡魂具有+1+1
+灵魂祭司,https://pic.iyingdi.com/gadgets-admin/undefined/65feffcb2bab4ae5a74eeec70f1a2c91-灵魂祭司.png,随从,幽灵,4,先手：触发同列的另1个友方的击杀效果
+亡魂铁匠,https://pic.iyingdi.com/gadgets-admin/undefined/719ae1680e0243c9afac491119e6377e-img_v2_817bf244-8626-466b-9ef8-fabc3c3d695g.jpg,随从,幽灵,4,共享自身装备效果给友方的亡魂
+幽灵巡礼者,https://pic.iyingdi.com/gadgets-admin/undefined/7f90750bcc6d497b9ed6d77fee77edb7-幽灵巡礼者.jpg,随从,幽灵,4,冥想2回合：同列的另1个友方获得+10+10
+石中剑,https://pic.iyingdi.com/gadgets-admin/undefined/19b9267369c0469d941274cf1d850eb5-石中剑.png,随从,幽灵,5,你的所有随从具有疯狂以及+2+2
+灵魂缝合师,https://pic.iyingdi.com/gadgets-admin/undefined/2ccb29259c85483dbfcd67a787eafcd4-灵魂缝合师.jpg,随从,幽灵,5,入场：获得一张具有附着的亡魂
+追猎者,https://pic.iyingdi.com/gadgets-admin/undefined/99f427ef4f19498cb676d2fb270c3c7b-追猎者.jpg,随从,幽灵,5,附着，攻击后，对2个敌方造成5点伤害
+亡魂歌者,https://pic.iyingdi.com/gadgets-admin/undefined/39889100233749eb90597e0274a17658-图层 11.png,随从,幽灵,5,先手：同排友方获得遗言：召唤亡魂
+古堡幽灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/古堡幽灵.png,随从,幽灵,6,该随从的属性变化时，变化数量翻倍
+献祭者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/献祭者.png,随从,幽灵,6,击杀：获得+4+4所有友方互相共享击杀效果*
+灾厄,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/灾厄.png,随从,幽灵,6,每在战斗中召唤1个随从，使1个友方获得召唤随从的属性值
+缚魂棺,https://pic.iyingdi.com/gadgets-admin/undefined/672547bd84964796b8d1a45649ec1386-1698736406718.jpg,随从,幽灵,6,友方随从死亡时，该随从获得遗言：召唤随机遗言随从
+侍僧,https://pic.iyingdi.com/gadgets-admin/undefined/b286142985304965a1356efdad4520a3-侍僧.png,随从,幽灵,6,入场：移除1个商店中的随从，之后召唤的亡魂获得其属性值
+伐木工叔叔,https://pic.iyingdi.com/gadgets-admin/undefined/4a49c7e9fe4c459ab294d1e075273b0a-1696929220018.jpg,随从,战士,1,护盾
+守卫,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/守卫.png,随从,战士,1,无法攻击
+渔夫,https://pic.iyingdi.com/gadgets-admin/undefined/91cd3d39cd894ecb80296c9ccf4a570c-1696929248270.jpg,随从,战士,1,成长：使另2个友方+1攻击
+镣铐野人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/镣铐野人.png,随从,战士,2,攻击时，永久获得+1+1
+逃犯,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/逃犯.png,随从,战士,2,遗言：所有友方获得+2+2
+见习侍卫,https://pic.iyingdi.com/gadgets-admin/undefined/12ba884dd53e40ac9e63c635ccc99b02-QQ浏览器截图20240223210511.png,随从,战士,2,入场：你购买的下个随从获得+3+3
+盾弩手,https://pic.iyingdi.com/gadgets-admin/undefined/f4f39042b4cf49a2aabf8db5e515aa8c-1698736104804.jpg,随从,战士,2,护盾，友方失去护盾时，该随从造成2点伤害
+丛林巨人,https://pic.iyingdi.com/gadgets-admin/undefined/eb39476883b04ed29038625071520684-1703659029180.jpg,随从,战士,3,无法攻击，成长：每有1个无法攻击的友方，该随从获得+1+2
+队长,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/队长.png,随从,战士,3,护盾，成长：所有具有护盾的友方+2攻击
+刽子手,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/刽子手.png,随从,战士,3,入场：其他友方获得+2+1
+双持盾兵,https://pic.iyingdi.com/gadgets-admin/undefined/d7cb5e9df4884b7a811ea72762c6e070-1698736270302.jpg,随从,战士,3,无法攻击，被攻击时，永久获得+1+1
+玫瑰盾卫,https://pic.iyingdi.com/gadgets-admin/undefined/059b85b3415e4e338013497c2fc75f8b-QQ浏览器截图20240223210312.png,随从,战士,3,友方获得攻击时，该随从获得+1生命
+神秘铁匠,https://pic.iyingdi.com/gadgets-admin/undefined/93a7ebf534e54643951626aa1ceadca0-神秘铁匠.png,随从,战士,3,卖出时，挑选1张当前等级的装备牌
+贴身保镖,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贴身保镖.png,随从,战士,4,附着，护盾
+闯入者,https://pic.iyingdi.com/gadgets-admin/undefined/69eca4e18816466e9a363284eba0dd29-闯入者.png,随从,战士,4,先手：每装备1张装备牌，获得+10+10
+宫廷管家,https://pic.iyingdi.com/gadgets-admin/undefined/6210e8c23f9545b1b63b16fca05d8742-1698736572681.jpg,随从,战士,4,每花费12金币，获得1张随机装备牌
+蔷薇骑士,https://pic.iyingdi.com/gadgets-admin/undefined/f0c9f0624b6343ee809a32cfd5f9feeb-1703659336877.jpg,随从,战士,4,护盾，单次战斗中，友方每失去3层护盾，获得1张随机入场牌
+斗士,https://pic.iyingdi.com/gadgets-admin/undefined/00bd053be86d4052bfeb5d92ad952dae-图层 2.png,随从,战士,4,攻击时，所有友方永久获得+1+2
+裁决者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/裁决者.png,随从,战士,5,入场：随机友方+3+3场上每存在1层护盾，重复1次
+纵火者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/纵火者.png,随从,战士,5,护盾，失去护盾时，对所有敌方造成4点伤害
+保护者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/保护者.png,随从,战士,5,攻击时，使2个其他友方获得护盾
+老猎人,https://pic.iyingdi.com/gadgets-admin/undefined/b3f50a755f894d7ea1677b5320409023-图层 11.png,随从,战士,5,护盾，友方失去护盾时，该随从获得遗言：造成10点伤害
+野牛骑士长,https://pic.iyingdi.com/gadgets-admin/undefined/686e7995d4db47eeb453d6160685bbc4-QQ浏览器截图20240223210119.png,随从,战士,5,成长：友方装备的每件装备使装备者获得+2+2
+裁缝,https://pic.iyingdi.com/gadgets-admin/undefined/7574e2746fda48ec8d94095b2e3fcfd2-裁缝.jpg,随从,战士,5,冥想1回合：同列另一个友方装备槽+1
+受祝福的勇士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/受祝福的勇士.png,随从,战士,6,入场：获得其他友方攻击之和的一半的生命
+持盾战士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/持盾战士.png,随从,战士,6,护盾*2。你的随从可以拥有多层护盾
+骑士铠甲,https://pic.iyingdi.com/gadgets-admin/undefined/c8c9f642bf9d4beabcf68d1d7f89ff79-其实铠甲.png,随从,战士,6,附着，装备槽+1。
+玫瑰公爵,https://pic.iyingdi.com/gadgets-admin/undefined/220d87967ef54e69a308e18dd9c379d1-玫瑰公爵.png,随从,战士,6,无法攻击，友方在被攻击时，所有友方获得+1+2
+窃贼,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/窃贼.png,随从,中立,1,卖出时，获得商店最左侧的物品
+鉴赏家,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鉴赏家.png,随从,中立,2,卖出时，商店所有物品变化为星级+1的物品
+法力图腾,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/法力图腾.png,随从,中立,2,每回合可以免费刷新1次
+变色龙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/变色龙.png,随从,中立,3,可以代替1张1-3星随从进行三连
+小鬼娃娃,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小鬼娃娃.png,随从,中立,3,友方具有1层增伤
+大厨,https://pic.iyingdi.com/gadgets-admin/undefined/737b7dd6d8794e52b45ec842b2e85426-QQ浏览器截图20240223210640.png,随从,中立,3,卖出时，挑选1张咒术牌
+废土旅人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/废土旅人.png,随从,中立,3,在你刷新后，将商店最左侧的物品变为+1星的物品
+神射手,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/神射手.png,随从,中立,4,护盾，先手：立即攻击1个后排敌方
+武器小偷,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/武器小偷.png,随从,中立,4,入场：获得1张随机装备牌
+催眠师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/催眠师.png,随从,中立,4,入场：使1个友方获得1层增伤
+魔靴,https://pic.iyingdi.com/gadgets-admin/undefined/e9b3a6de117445ad96fd715cc5a18d77-QQ浏览器截图20240223210443.png,随从,中立,4,附着，可以附着给任意随从
+探险者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/探险者.png,随从,中立,4,入场：接下来3次刷新不消耗金币
+集结号手,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/集结号手.png,随从,中立,4,入场：选择1个友方，使商店刷出同阵营随从
+典狱长,https://pic.iyingdi.com/gadgets-admin/undefined/ef856ac1c6e848879b30bdf288e410e0-1703646891408.jpg,随从,中立,4,无法攻击，嘲讽，护盾
+海盗宝箱,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/海盗宝箱.png,随从,中立,4,成长：获得2金币
+杀手鱼人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/杀手鱼人.png,随从,中立,4,攻击时，获得等同于对方生命的攻击
+假面人,https://pic.iyingdi.com/gadgets-admin/undefined/ab2cee9a322a4f8380169299ba827b78-图层 18.png,随从,中立,4,冥想1回合：变形为+1星随从，并获得+3+3
+科学家,https://pic.iyingdi.com/gadgets-admin/undefined/42d01e6e96a1493b871af7cf9c6b0a24-科学家.jpg,随从,中立,4,冥想2回合：获得6经验
+寻宝狗头人,https://pic.iyingdi.com/gadgets-admin/undefined/c869b52341744bef9f598bbc0eca3a88-寻宝狗头人.png,随从,中立,5,友方入场效果触发2次
+魔法精灵,https://pic.iyingdi.com/gadgets-admin/undefined/95c0b7f2ef3243abbc931edebedda30f-pvp23.png,随从,中立,5,入场：触发所有友方成长效果1次
+酩酊酒客,https://pic.iyingdi.com/gadgets-admin/undefined/3dc1dab9168642f59f9fdd377a3c720b-1703659237331.jpg,随从,中立,5,卖出该随从时，获得1张当前等级的随从
+傀儡陷阱,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/傀儡陷阱.png,随从,中立,5,遗言：使消灭该随从的单位生命值变为1
+勇敢挑战者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/勇敢挑战者.png,随从,中立,5,攻击时，使对方属性值减半
+精英刺客,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精英刺客.png,随从,中立,5,疯狂，攻击时，移除对方的护盾和遗言效果
+防御者,https://pic.iyingdi.com/gadgets-admin/undefined/b3441ba3f59a4871ad1d0a0ba494cc82-防御者.png,随从,中立,5,先手：所有友方+8生命
+炸药专家,https://pic.iyingdi.com/gadgets-admin/undefined/589773fa0c304e8c81c4937a22131acb-1703646696668.jpg,随从,中立,5,遗言：对敌方后排造成4点伤害，触发2次
+抄写员,https://pic.iyingdi.com/gadgets-admin/undefined/844b892292db401197c007b75d13d244-抄写员.png,随从,中立,5,入场：选择1个友方，战斗结束后，变形为选择的友方的原始复制
+死灵傀儡师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/死灵傀儡师.png,随从,中立,6,友方遗言触发2次*
+泉水之灵,https://pic.iyingdi.com/gadgets-admin/undefined/90f4d78f3cf44301a0f5877249f58446-泉水之灵.png,随从,中立,6,友方成长效果触发2次*
+魔镜,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔镜.png,随从,中立,6,可以代替1张4-6星随从进行三连
+鬼娃娃,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鬼娃娃.png,随从,中立,6,友方具有3层增伤
+哑巴先知,https://pic.iyingdi.com/gadgets-admin/undefined/f4715abb0eb54f04b53b4912e3c2a282-1698736685068.jpg,随从,中立,6,成长：获得1张随机咒术牌
+沉默医师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/沉默医师.png,随从,中立,6,入场：使1个友方+15生命
+魔女,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔女.png,随从,中立,6,攻击时，将该随从和对方一并移除
+海盗船,https://pic.iyingdi.com/gadgets-admin/undefined/f74df87d157949ab8025e90fb4cf29ca-图层 19.png,随从,中立,6,攻击时，召唤2个随机遗言随从并使其先攻击目标
+魔法树苗,https://pic.iyingdi.com/gadgets-admin/undefined/adcac8c38845413ca77942c7ed08082c-图层 4.png,随从,自然,1,成长：+1生命
+小树精,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小树精.png,随从,自然,1,受到伤害时，随机造成2点伤害
+苔藓宝宝,https://pic.iyingdi.com/gadgets-admin/undefined/2c634fde8b28427782bb3e22b25f5bce-苔藓宝宝.jpg,随从,自然,1,受伤后，永久+1攻击
+小石精,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小石精.png,随从,自然,2,攻击后，对所有其他随从造成1点伤害
+食人花,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/食人花.png,随从,自然,2,遗言：所有友方+5生命
+南瓜卫士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/南瓜卫士.png,随从,自然,2,入场：使1个友方+5生命
+草灵,https://pic.iyingdi.com/gadgets-admin/undefined/b57a672c93a14e8a9027e023ed23def3-图层 7.png,随从,自然,2,成长：同排友方获得+1+1
+复仇树精,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/复仇树精.png,随从,自然,3,受到伤害时，所有友方+2攻击
+魔法南瓜,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔法南瓜.png,随从,自然,3,成长：所有友方+1生命
+狂乱树精,https://pic.iyingdi.com/gadgets-admin/undefined/3139f7cd55ad4c139b37d8f2e9a17b6a-图层 11.png,随从,自然,3,卖出随从时，该随从获得+1+2
+小蘑菇,https://pic.iyingdi.com/gadgets-admin/undefined/b1e40df699ed43389fe69a928fdedad8-小蘑菇.png,随从,自然,3,成长：获得1+1卖出时，转移属性值给1个随机友方
+恐怖番茄,https://pic.iyingdi.com/gadgets-admin/undefined/e92839091fc74d239064b7780f33c09d-图层 14.png,随从,自然,3,所有友方在触发成长效果时都会获得+1+2
+古树,https://pic.iyingdi.com/gadgets-admin/undefined/16626a30150344dc9db94433e292f25f-图层 13.png,随从,自然,3,附着，成长：+1经验
+石精灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/石精灵.png,随从,自然,3,随从牌进入手牌时，使其获得+1+3
+黑玫瑰,https://pic.iyingdi.com/gadgets-admin/undefined/a17261f2af71453889c13e8c4f245491-1698736444822.jpg,随从,自然,4,受到伤害时，同排友方获得遗言：对随机敌方造成3点伤害
+曼德拉草,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/曼德拉草.png,随从,自然,4,战斗结束后，移除这张牌，获得3张随机入场牌
+林地看守,https://pic.iyingdi.com/gadgets-admin/undefined/1d5c114e2c1a49ac978f380fcdb525d5-图层 7.png,随从,自然,4,卖出其他随从时，获得1点经验
+自然仙灵,https://pic.iyingdi.com/gadgets-admin/undefined/2e5d1b176b2d4eeca7c9aa45de4df064-1698736183327.jpg,随从,自然,4,附着，成长：获得+1+3
+苔藓骑士,https://pic.iyingdi.com/gadgets-admin/undefined/425a563e3fd74a58b96b818cffc290eb-苔藓骑士.png,随从,自然,4,友方受伤后，该随从获得+1+2
+花匠,https://pic.iyingdi.com/gadgets-admin/undefined/d70b15c9b6a74d50a110b16fba98ace6-图层 9.png,随从,自然,4,遗言：获得1张施肥（触发一个友方成长）
+沐恩树灵,https://pic.iyingdi.com/gadgets-admin/undefined/70e1f2eeaa7a4caf9b810e5121acd6f2-沐恩树灵.jpg,随从,自然,4,冥想2回合：所有友方获得+2+2并触发成长效果
+孢子小姐,https://pic.iyingdi.com/gadgets-admin/undefined/16f3dfd804bd49a0b131f0cd2d00626e-孢子小姐.png,随从,自然,5,失去生命且未死亡时，获得护盾
+蘑菇长老,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蘑菇长老.png,随从,自然,5,成长：所有金色的友方获得+2+4
+孢子女巫,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/孢子女巫.png,随从,自然,5,入场：随机使1个不高于3星的友方变为金色
+石精巨兽,https://pic.iyingdi.com/gadgets-admin/undefined/7b3b842a35694f7696b25e2ff8407c31-图层 12.png,随从,自然,5,嘲讽，被攻击时，先对其他随从造成1点伤害
+梦境之树,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/梦境之树.png,随从,自然,6,当你卖出1张随从牌，所有友方获得+1+1
+蘑菇国王,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蘑菇国王.png,随从,自然,6,成长：获得1张随机自然族牌
+捕萤草,https://pic.iyingdi.com/gadgets-admin/undefined/42b871790930445d8f857713f745cd62-捕蝇草.png,随从,自然,6,卖出随从时，获得其一半属性值
+剑术导师,https://pic.iyingdi.com/gadgets-admin/undefined/480eb352c64c40909dcd6ffdcc383fdd-剑术大师.png,英雄,,,将商店1个随从置入手牌，并使其属性值翻倍
+厨师学徒,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/厨师学徒.png,英雄,,,获得1张随机料理牌
+鼹鼠奸商,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鼹鼠奸商.png,英雄,,,移除1个友方，本回合下次购买不消耗金币
+独眼调查员,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/独眼调查员.png,英雄,,,被动:所有友方获得1层疯狂，你总是最先发起攻击
+掌灯者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/掌灯者.png,英雄,,,将1个不超过3星的随从变为金色，每局游戏限2次
+精灵女王,https://pic.iyingdi.com/gadgets-admin/undefined/daa2903d671e4fd5bc91427e8116ee54-1.png,英雄,,,使1个友方+2+1并触发成长效果
+幽灵狗,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/幽灵狗.png,英雄,,,移除友方或商店的1个随从，使你购买的下1个随从获得其属性值
+影魔,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/影魔.png,英雄,,,战斗开始时，获得对手星级最高的随从的原始复制并召唤到场上
+追梦旅人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/追梦旅人.png,英雄,,,被动:场上首次拥有6个友方时，挑选1个5星随从
+占卜师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/占卜师.png,英雄,,,挑选1张当前等级的咒术（等级2解锁）
+能量装置,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/能量装置.png,英雄,,,被动:每回合额外获得1点经验
+铸剑工匠,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/铸剑工匠.png,英雄,,,挑选1张当前等级的装备。（等级2解锁）
+雷精灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雷精灵.png,英雄,,,被动:购买1张牌后，本回合下次刷新消耗金币为0
+机械魔术师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械魔术师.png,英雄,,,获得最左侧手牌的原始复制，每局游戏限3次。
+狼王,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/狼王.png,英雄,,,被动:友方具有击杀:永久+1+1
+天才发明家,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/天才发明家.png,英雄,,,被动:升级后，额外获得1张升级奖励
+黑天鹅,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑天鹅.png,英雄,,,选择1个商店的卡牌或场上的随从，将它移到手中
+掘墓人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/掘墓人.png,英雄,,,被动:出售4个随从后，获得随机当前等级的随从
+乞讨者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/乞讨者.png,英雄,,,被动:若你在回合结束时没有金币，则在下回合额外获得2金币
+调酒师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/调酒师.png,英雄,,,被动:升级后，每有1个不同阵营的友方，获得1金币
+皇家指挥官,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/皇家指挥官.png,英雄,,,被动:跳过你的首个回合，升级后，获得1张当前等级的随从
+古堡三杰,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/古堡三杰.png,英雄,,,挑选1个当前等级的随从，每局游戏限3次
+齿轮绅士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/齿轮绅士.png,英雄,,,永久使商店中的随从获得+1+1
+魔法树丛,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔法树丛.png,英雄,,,被动:升级后，所有友方获得等同于等级的生命
+火精灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/火精灵.png,英雄,,,被动:刷新商店后，第1个友方获得+1+1
+流浪佣兵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/流浪佣兵.png,英雄,,,被动:购买中立阵营随从时，获得1金币
+地灵监工,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/地灵监工.png,英雄,,,使1个友方获得+2+2，友方属性值提升15次后升级
+鱼美人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鱼美人.png,英雄,,,被动:友方获得属性值时，额外+1生命
+缝合怪,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/缝合怪.png,英雄,,,选择1个友方，下次战斗开始时，其会附着给同列的另1个友方
+黑猫,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑猫.png,英雄,,,本回合下1张咒术牌生效2次
+杂货商人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/杂货商人.png,英雄,,,刷新商店，出现当前等级的装备、随从、咒术各一个（等级2解锁）
+占星师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/占星师.png,英雄,,,观星：挑选1张1星随从，下次本技能挑选星级+1。挑选6星后失效
+批发商人,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/批发商人.png,英雄,,,被动:每回合首次购买后，本回合剩余购买只需2金币！
+森灵,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/森灵.png,英雄,,,使1个友方获得+1+1，并吸取其他友方一半属性值
+星雷女巫,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/星雷女巫.png,英雄,,,选择1个友方，与其相同攻击的友方都获得+1+1
+变色龙大师,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/变色龙大师.png,英雄,,,被动:在你三连后，获得3金币
+暴风女士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/暴风女士.png,英雄,,,开局以及升级商店时，获得1张小雪宝
+鲨鱼恶霸,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鲨鱼恶霸.png,英雄,,,使1个随从的攻击变为8点（升级商店后，额外+4点）
+小猫进货商,https://pic.iyingdi.com/gadgets-admin/undefined/be9911b587014a8bb8d8c1f929ba639f-小猫店主.png,英雄,,,卖出1个随从，获得1个原始复制
+黑市商贩,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑市商贩.png,英雄,,,选择1个友方，刷出与之相同阵营的随从
+驯鹿勇士,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/驯鹿勇士.png,英雄,,,使一个随从获得+2+2，然后令其攻击或生命增加，直到二者相等
+贪婪地精,https://pic.iyingdi.com/gadgets-admin/undefined/925e9056810b4ad58460b84a13ef6733-微信图片_20240115212006.jpg,英雄,,,当你卖出随从时，获得1点经验
+小猪建筑师,https://pic.iyingdi.com/gadgets-admin/undefined/296b92efd60f4926939e6a15bbc9316e-微信图片_20240115214326.png,英雄,,,本轮战斗英雄受到伤害-10，每局游戏限3次
+玩具商贩,https://pic.iyingdi.com/gadgets-admin/undefined/8b18be84a8b540ee86431e0a63fb1832-2.png,英雄,,,选择1个友方，下次战斗开始时，召唤其1/1的复制
+蜡烛人,https://pic.iyingdi.com/gadgets-admin/undefined/b0f61800957e4578a616c81cfe72fe33-3.png,英雄,,,"失去2生命，获得1张""火焰""（咒术：挑选1张随从牌）"
+圣诞矮人,https://pic.iyingdi.com/gadgets-admin/undefined/6fd8d1273a2e4e5fb1d2904cd238c97a-微信图片_20240115212022.jpg,英雄,,,随机召唤1个不超过当前等级的随从，使其变为1/1
+稳固攻击【2】,https://pic.iyingdi.com/gadgets-admin/undefined/0b8deb76fd6d4fb6818fb42eb96d1981-图层 4.png,咒术,,2,使1个友方+5攻击
+饱食【2】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【2】.png,咒术,,2,使1个友方获得+2+2
+生命庇护【2】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【2】.png,咒术,,2,使1个友方+4生命
+头脑风暴【2】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【2】.png,咒术,,2,获得2点经验
+响指【2】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/响指【2】.png,咒术,,2,召唤1个1/1的随机随从
+上发条【2】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/上发条【2】.png,咒术,,2,使商店的1个随从获得+3+3
+帽子戏法【2】,https://pic.iyingdi.com/gadgets-admin/undefined/320c2445d0d947469e359832b7190a88-33-7.png,咒术,,2,使1个随从变为4/4
+许愿,https://pic.iyingdi.com/gadgets-admin/undefined/be868f0eae7d4be6993c7203fef98361-1703585778366.jpg,咒术,,2,将商店1个随从变形为+1星随从
+上锁的日记[2],https://pic.iyingdi.com/gadgets-admin/undefined/32a2bfbeb4154af3b78c65bed4127ff3-图层 6.png,咒术,,2,在升级到3级后才能使用，挑选一张3星咒术
+护甲师【3】,https://pic.iyingdi.com/gadgets-admin/undefined/6af3928aab64422282ebe10aff81d089-图层 3.png,咒术,,3,所有友方+3生命
+力量祝福【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/力量祝福【3】.png,咒术,,3,所有友方获得+1+1+1+1
+饱食【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【3】.png,咒术,,3,使1个友方获得+3+3
+剑术训练【3】,https://pic.iyingdi.com/gadgets-admin/undefined/67836c8a653446628a1912c96b6ec7df-图层 18.png,咒术,,3,所有友方+3攻击
+生命庇护【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【3】.png,咒术,,3,使1个友方+6生命
+稳固攻击【3】,https://pic.iyingdi.com/gadgets-admin/undefined/a30e54d1c78e4c50b8c58c2e769c066d-图层 16.png,咒术,,3,使1个友方+8攻击
+头脑风暴【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【3】.png,咒术,,3,获得3点经验
+贤者之石【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【3】.png,咒术,,3,使1个1星的随从变为金色
+异变之力,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/异变之力.png,咒术,,3,使1个友方变形为+1星级的随从
+拧紧螺栓【3】,https://pic.iyingdi.com/gadgets-admin/undefined/238cc6d18c6f45c4bd8ff2c3625cadba-34-4.png,咒术,,3,永久使商店所有随从获得+1+1
+丛林探险【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【3】.png,咒术,,3,挑选1张2星随从
+量产工厂【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【3】.png,咒术,,3,选择1个1星的随从，获得1张它的原始复制
+绝妙藏品【3】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【3】.png,咒术,,3,挑选1张2星装备牌
+吞没【3】,https://pic.iyingdi.com/gadgets-admin/undefined/bf40f6c8142342f687f5ac5711c8e35d-图层 2.png,咒术,,3,使1个友方获得击杀：永久+1+1
+帽子戏法【3】,https://pic.iyingdi.com/gadgets-admin/undefined/8c0525a872804071b24ddf31f7b46c23-34-5.png,咒术,,3,使1个随从变为6/6
+骨卜【3】,https://pic.iyingdi.com/gadgets-admin/undefined/c3740dab4cc24293a9f0287e2628468d-35-6.png,咒术,,3,移除1个友方，挑选1个3星随从
+招募令【3】,https://pic.iyingdi.com/gadgets-admin/undefined/bd22d1302a784047820df317e8794812-QQ浏览器截图20240223210733.png,咒术,,3,获得2张随机1星随从牌
+抽奖,https://pic.iyingdi.com/gadgets-admin/undefined/fc59d5b5c8704f5bb620d5811357dcb7-1703585834075.jpg,咒术,,3,随机获得商店1张牌
+上锁的日记[3],https://pic.iyingdi.com/gadgets-admin/undefined/564f83059da540bfb31defd9add79045-图层 14.png,咒术,,3,在升级到4星后才能使用，挑选1张4星咒术
+稳固攻击【4】,https://pic.iyingdi.com/gadgets-admin/undefined/2369ea7b8831438ca434461aaef03fca-图层 10.png,咒术,,4,使1个友方+11攻击
+护甲师【4】,https://pic.iyingdi.com/gadgets-admin/undefined/f7d62b0d73ce4894abce41ca1c09b65d-图层 17.png,咒术,,4,所有友方+4生命
+饱食【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【4】.png,咒术,,4,使1个友方获得+4+4
+剑术训练【4】,https://pic.iyingdi.com/gadgets-admin/undefined/60cc713814ac4e52bb179bf6152f98bf-图层 5.png,咒术,,4,所有友方+4攻击
+生命庇护【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【4】.png,咒术,,4,使1个友方+8生命
+头脑风暴【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【4】.png,咒术,,4,获得4点经验
+贤者之石【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【4】.png,咒术,,4,使1个不超过2星的随从变为金色
+理财能手【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/理财能手【4】.png,咒术,,4,使1个友方获得成长：获得1金币
+炸弹【4】,https://pic.iyingdi.com/gadgets-admin/undefined/359ccf5a2ba74281a97799c19123535c-图层 2.png,咒术,,4,使1个友方获得遗言：造成5点伤害
+火球术【4】,https://pic.iyingdi.com/gadgets-admin/undefined/25f7b7f6240340eeb52c0ce1aa408c7b-图层 3.png,咒术,,4,使1个友方获得先手：造成5点伤害
+丛林探险【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【4】.png,咒术,,4,挑选1张3星随从
+精挑细选【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【4】.png,咒术,,4,接下来3次刷新免费
+绝妙藏品【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【4】.png,咒术,,4,挑选1张3星装备牌
+加速【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/加速【4】.png,咒术,,4,触发1个友方的成长效果，并使其获得+2+2
+上发条【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/上发条【4】.png,咒术,,4,使商店的1个随从获得+6+6
+响指【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/响指【4】.png,咒术,,4,召唤2个2/2的随机随从
+量产工厂【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【4】.png,咒术,,4,选择1个不超过2星的随从，获得1张它的原始复制
+抽奖箱,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/抽奖箱.png,咒术,,4,刷新商店，并使刷出的随从属性值翻倍
+生长【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生长【4】.png,咒术,,4,使1个友方获得成长：+2生命
+激励【4】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/激励【4】.png,咒术,,4,使1个友方获得成长：+2攻击
+从零开始【4】,https://pic.iyingdi.com/gadgets-admin/undefined/57b0a8fffe884a069d95a6dbf12d1cdc-图层 2.png,咒术,,4,使1个随从变为1/1并获得成长：+3+3
+帽子戏法【4】,https://pic.iyingdi.com/gadgets-admin/undefined/e0194dfeb03e49cba817728a2a0e20c1-图层 6.png,咒术,,4,使1个随从变为9/9
+骨卜【4】,https://pic.iyingdi.com/gadgets-admin/undefined/499d8be173ba4dc4833e7d2a27a25bc8-38-3.png,咒术,,4,移除1个友方，挑选1个4星随从
+健美大赛,https://pic.iyingdi.com/gadgets-admin/undefined/0dbfe60d32764527bd29e43a092e99e2-38-5.png,咒术,,4,获得2金币，每存在1个攻击力不低于10的友方，额外获得1金币
+招募令【4】,https://pic.iyingdi.com/gadgets-admin/undefined/b9213b864db04564aa2302217c88b652-QQ浏览器截图20240223210745.png,咒术,,4,获得3张随机2星随从牌
+剑术陪练,https://pic.iyingdi.com/gadgets-admin/undefined/9e06f82d597f4e38be9f9b5205c54042-图层 5.png,咒术,,4,使商店1个随从属性值翻倍
+吹嘘,https://pic.iyingdi.com/gadgets-admin/undefined/4c23995b9c8e4d3ab4c52d9b298eb6a1-1703585918929.jpg,咒术,,4,获得1张随机入场牌
+原始法则,https://pic.iyingdi.com/gadgets-admin/undefined/58d7619731e0411dab2158c64d4903a4-图层 11.png,咒术,,5,使1个随从+3+3，然后令其攻击力或者生命增加，直到2者相等。
+饱食【5】,https://pic.iyingdi.com/gadgets-admin/undefined/cc8e4b7eb63e46d5b22dcd8a3cd2f9fa-图层 6.png,咒术,,5,使1个友方获得+7+7
+力量祝福【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/力量祝福【5】.png,咒术,,5,所有友方获得+2+2+2+2
+护甲师【5】,https://pic.iyingdi.com/gadgets-admin/undefined/612b220ec8f7450896764f9d624b68c8-图层 12.png,咒术,,5,所有友方+5生命
+剑术训练【5】,https://pic.iyingdi.com/gadgets-admin/undefined/2959774def8c41c88e28af50c82f2ebe-图层 10.png,咒术,,5,所有友方+5攻击
+头脑风暴【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【5】.png,咒术,,5,获得5点经验
+迷失森林【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/迷失森林【5】.png,咒术,,5,获得1张随机5星随从牌
+精挑细选【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【5】.png,咒术,,5,接下来4次刷新免费
+法力源泉,https://pic.iyingdi.com/gadgets-admin/undefined/c16a64a10df84b5b81ac83b291457796-图层 10.png,咒术,,5,使1个友方获得2层增伤
+贤者之石【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【5】.png,咒术,,5,使1个不超过3星的随从变为金色
+绝妙藏品【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【5】.png,咒术,,5,挑选1张4星装备牌
+招募强者,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/招募强者.png,咒术,,5,刷新商店，出现3个当前等级的物品
+拧紧螺栓【5】,https://pic.iyingdi.com/gadgets-admin/undefined/56822ac8a33546178549c16a1ab0d7be-1703659966350.jpg,咒术,,5,永久使商店所有随从获得+2+2
+丛林探险【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【5】.png,咒术,,5,挑选1张4星随从
+巧夺,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/巧夺.png,咒术,,5,挑选你上个对手的1个随从的原始复制
+最后的希望,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/最后的希望.png,咒术,,5,用随机随从填满你的战场
+捡漏,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/捡漏.png,咒术,,5,获得当前商店的所有卡牌
+加速【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/加速【5】.png,咒术,,5,触发1个友方的成长效果，并使其获得+4+4
+挖掘宝物,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/挖掘宝物.png,咒术,,5,使1个友方获得：攻击时，获得1金币
+雕像,https://pic.iyingdi.com/gadgets-admin/undefined/651e08ddc82b4dc58ccb918bacbec09b-图层 11.png,咒术,,5,使1个随从获得无法攻击，然后使所有无法攻击的友方+3+6
+吞没【5】,https://pic.iyingdi.com/gadgets-admin/undefined/8d081cdea983436e9ee6a2d55337d4b0-图层 8.png,咒术,,5,使1个友方获得击杀：永久+2+2
+量产工厂【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【5】.png,咒术,,5,选择1个不超过3星的随从，获得1张它的原始复制
+恶魔天平,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/恶魔天平.png,咒术,,5,移除1个随从，第1个友方获得其属性值
+不稳定克隆,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/不稳定克隆.png,咒术,,5,移除1个友方，获得2张相同星级的随机随从牌
+发财【5】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/发财【5】.png,咒术,,5,获得2金币，每存在1个金色友方，额外获得2金币
+从零开始【5】,https://pic.iyingdi.com/gadgets-admin/undefined/7e92bef5e3d14867afb09bbfbdd11c19-图层 16.png,咒术,,5,使1个随从变为1/1并获得成长：+4+4
+三头六臂,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/三头六臂.png,咒术,,5,获得1张友方类型的随机附着牌
+考古学,https://pic.iyingdi.com/gadgets-admin/undefined/ee6442cb70d54400a79a2dd91ee67766-1703585946525.jpg,咒术,,5,选择1个友方，挑选1张其阵营的随从牌
+命悬一线[5],https://pic.iyingdi.com/gadgets-admin/undefined/305ac8244a92433b9e6ced9577809561-1703586176469.jpg,咒术,,5,将你的生命值变为1，获得12金币
+奇妙探险,https://pic.iyingdi.com/gadgets-admin/undefined/85c96d560f2f46219b188275795f0ec0-QQ浏览器截图20240223210755.png,咒术,,5,挑选1张入场牌
+饱食【6】,https://pic.iyingdi.com/gadgets-admin/undefined/c2bf6ac8403044b092362ed831d37f9c-图层 7.png,咒术,,6,使1个友方获得+10+10
+迷失森林【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/迷失森林【6】.png,咒术,,6,获得1张随机6星随从牌
+精挑细选【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【6】.png,咒术,,6,接下来5次刷新免费
+鬼牌,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鬼牌.png,咒术,,6,获得最左边手牌的原始复制
+量身定做,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量身定做.png,咒术,,6,使1个友方获得1个装备槽
+魔术怀表,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔术怀表.png,咒术,,6,触发所有友方的成长效果
+千刀万剐,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/千刀万剐.png,咒术,,6,使1个友方获得疯狂
+理财能手【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/理财能手【6】.png,咒术,,6,使1个友方获得成长：获得2金币
+绝妙藏品【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【6】.png,咒术,,6,挑选1张5星装备牌
+炸弹【6】,https://pic.iyingdi.com/gadgets-admin/undefined/524b0b6b79ef4402aa10ebc6685baeff-图层 9.png,咒术,,6,使1个友方获得遗言：造成5点伤害2次
+火球术【6】,https://pic.iyingdi.com/gadgets-admin/undefined/08a0a44fa5e7434cae9490246914f6cd-图层 8.png,咒术,,6,使1个友方获得先手：造成5点伤害2次
+丛林探险【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【6】.png,咒术,,6,挑选1张5星随从
+量产工厂【6】,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【6】.png,咒术,,6,选择1个不超过4星的随从，获得1张它的原始复制
+神圣祝福,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/神圣祝福.png,咒术,,6,使1个友方获得护盾
+发财【6】,https://pic.iyingdi.com/gadgets-admin/undefined/0a1efcfda74745e4ba925425ddc59e31-发财【6】.png,咒术,,6,获得3金币，每存在1个金色友方，额外获得2金币
+血瓶,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/血瓶.png,咒术,,6,英雄每已损失1生命，使1个友方+1生命
+命悬一线[6],https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/命悬一线.png,咒术,,6,将你的生命值变为1，获得16金币
+许愿神灯,https://pic.iyingdi.com/gadgets-admin/undefined/597d35303567402093dd659804c5274e-1703586214259.jpg,咒术,,6,挑选1张咒术牌，下回合获得1张许愿神灯
+圆盾,https://pic.iyingdi.com/gadgets-admin/undefined/4c29e1997a2049cdbad5dfa92e673091-图层 3.png,装备,,2,+10生命
+短剑,https://pic.iyingdi.com/gadgets-admin/undefined/711157b27e774d778cf1be2fbda87e34-图层 4.png,装备,,2,+10攻击
+活力护符,https://pic.iyingdi.com/gadgets-admin/undefined/9bd2674ed38340f796388fd69a6a122a-图层 7.png,装备,,2,获得+5+5
+研究图纸,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/研究图纸.png,装备,,2,成长：获得1点经验
+伐木斧,https://pic.iyingdi.com/gadgets-admin/undefined/b23632cfc36d48478f0efd6303649ca3-图层 5.png,装备,,2,获得+2+2攻击时，永久获得+1+1
+刃弩,https://pic.iyingdi.com/gadgets-admin/undefined/3a4f6a9992974a4faa1d3d1accd8d887-图层 2.png,装备,,2,获得+2+2，先手：造成3点伤害
+月光法典,https://pic.iyingdi.com/gadgets-admin/undefined/7180ac336b184e6f9739fa0682bf6bed-图层 15.png,装备,,3,成长：获得+2+2
+护盾,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/护盾.png,装备,,3,护盾
+尖刺壁垒,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/尖刺壁垒.png,装备,,3,无法攻击获得+2+8
+生命护符,https://pic.iyingdi.com/gadgets-admin/undefined/eb8de908d54d439789d6c0a99861b04d-图层 13.png,装备,,3,成长：+4生命
+死亡钟摆,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/死亡钟摆.png,装备,,3,友方死亡后，该随从获得+2+2
+死神之镰,https://pic.iyingdi.com/gadgets-admin/undefined/7740057534e5432d99aed988cace3fb4-图层 12.png,装备,,3,成长：+4攻击
+火苗,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/火苗.png,装备,,3,2层增伤
+殉道护符,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/殉道护符.png,装备,,3,嘲讽获得+4+4
+速度之靴,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/速度之靴.png,装备,,4,疯狂
+玩具长枪,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/玩具长枪.png,装备,,4,攻击5击杀：永久获得+1+1
+弹幕射击,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弹幕射击.png,装备,,4,攻击后，对随机3个敌方造成4点伤害
+暗藏炸弹,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/暗藏炸弹.png,装备,,4,遗言：对随机3个敌方造成4点伤害
+双头剑,https://pic.iyingdi.com/gadgets-admin/undefined/f1432aa9c2324a7685972100f117b6f4-1703585379304.jpg,装备,,4,先手：+20攻击，-10生命
+重斧,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/重斧.png,装备,,4,攻击20该随从攻击后攻击-10
+盾墙,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/盾墙.png,装备,,4,无法攻击，嘲讽获得+5+5
+法力护盾,https://pic.iyingdi.com/gadgets-admin/undefined/2234fddab7514b0fa370224e347db40c-法力护盾.png,装备,,4,护盾，每当1个友方随从失去护盾该随从获得+2+2
+金匕首,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/金匕首.png,装备,,4,成长：每有一个金色友方，获得+1+2
+流血箭,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/流血箭.png,装备,,4,3层增伤
+幽暗烛光,https://pic.iyingdi.com/gadgets-admin/undefined/05e311af6aad409aa13c6603fc0ec734-1698736836294.jpg,装备,,4,受伤后，永久+1+1
+剧毒匕首,https://pic.iyingdi.com/gadgets-admin/undefined/328ccdeddeb04aa29a11a75114b060b0-1703585424983.jpg,装备,,4,获得+4+4攻击后，对目标造成4点伤害4次
+带毒藤蔓,https://pic.iyingdi.com/gadgets-admin/undefined/a7203c5219b24dc8ab5293b4fb06762c-图层 18.png,装备,,4,获得+4+4受到伤害时获得2层增伤
+提灯,https://pic.iyingdi.com/gadgets-admin/undefined/40f62f0753a84eb0bb5f3c9b437f923a-1703585411900.jpg,装备,,4,先手:如果本随从未超过3星，变为金色
+彼岸花,https://pic.iyingdi.com/gadgets-admin/undefined/8718e43af3c04f1d930e44490bed6ec7-图层 3.png,装备,,4,友方死亡时，本随从永久+1+1
+朴素法袍,https://pic.iyingdi.com/gadgets-admin/undefined/d8a1fdf7e69748a0ad0da5a3192e59b7-图层 6.png,装备,,4,2层增伤每造成2次伤害永久获得+1+1
+快刀,https://pic.iyingdi.com/gadgets-admin/undefined/790516df53a94d6eb637f89e42d0af9d-1703585354732.jpg,装备,,4,本随从触发先手效果时，获得+7+7
+凡人的意志,https://pic.iyingdi.com/gadgets-admin/undefined/195dbec0aad242e6b9c7293f7d96fba5-图层 7.png,装备,,4,成长：获得等同于（6-本随从星级）的属性值
+塔盾,https://pic.iyingdi.com/gadgets-admin/undefined/0ddab60e63014d30bce4e06300b9208d-图层 4.png,装备,,4,先手：-10攻击，+20生命
+亡者之盾,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡者之盾.png,装备,,5,友方遗言触发时，该随从获得+2+2
+焊接器,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/焊接器.png,装备,,5,该随从在战斗中获得属性值时改为永久获得在战斗后移除该装备
+巨大化,https://pic.iyingdi.com/gadgets-admin/undefined/02f14c1f2fd74724a60db0c8a6f53aaf-2.jpg,装备,,5,获得+4+4每附着了1个随从额外获得+4+4
+魔术棒,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔术棒.png,装备,,5,攻击时，使对方获得-8-8
+法力翡翠,https://pic.iyingdi.com/gadgets-admin/undefined/422c8151083e420eaaa7d1b5a57bfd39-图层 15.png,装备,,5,成长：获得1层增伤
+尖刺羽毛,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/尖刺羽毛.png,装备,,5,4层增伤
+战斗法杖,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/战斗法杖.png,装备,,5,该随从每有1层增伤，获得+5+5
+潜行者手套,https://pic.iyingdi.com/gadgets-admin/undefined/5fad65e10aff4605b1f493f3262a9e31-潜行者手套.png,装备,,5,攻击+10，击杀：获得1金币
+弹弓,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弹弓.png,装备,,5,友方死亡后，该随从获得2层增伤
+袖箭,https://pic.iyingdi.com/gadgets-admin/undefined/f66672679c91429c89fecb98195fec3f-1.jpg,装备,,5,攻击时，先对目标造成5点伤害2次
+长弓,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/长弓.png,装备,,5,攻击时受到伤害减半
+恶魔刀刃,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/恶魔刀刃.png,装备,,5,友方攻击时，该随从获得+4+4
+助推器,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/助推器.png,装备,,5,成长：获得+6+6在战斗后移除该装备
+寒冰咒文书,https://pic.iyingdi.com/gadgets-admin/undefined/9b3370f2b90d45258b473f76f3c69259-1703660432717.jpg,装备,,5,2层增伤，受到该随从伤害的敌人-3攻击
+风之石,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/风之石.png,装备,,5,疯狂获得+4+4
+重型弩炮,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/重型弩炮.png,装备,,5,对敌方后排随从造成的伤害翻倍
+自然印记,https://pic.iyingdi.com/gadgets-admin/undefined/1859ef51135a45628f2412d0b9b7f82f-自然印记.png,装备,,5,击杀：所有友方永久获得+1+1
+发电机,https://pic.iyingdi.com/gadgets-admin/undefined/2fbe91143cf64a91b32f834879e89363-1703585482398.jpg,装备,,5,2层增伤，每造成4次伤害，获得1金币
+沉重背包,https://pic.iyingdi.com/gadgets-admin/undefined/d1b8d1f661994503b3102383fb81ea03-1703585468150.jpg,装备,,5,成长:每有1个空的装备槽，获得+4+4
+旗帜长枪,https://pic.iyingdi.com/gadgets-admin/undefined/eaef4dc35dc84912828e84d1dfae6ae0-1703585500951.jpg,装备,,5,获得+5+5友方具有+2攻击
+满月,https://pic.iyingdi.com/gadgets-admin/undefined/d1b5ddfb34cc44a5b410cdb4d8ea9f67-满月.png,装备,,6,护盾，该随从失去护盾后获得+10+10
+殉道铠甲,https://pic.iyingdi.com/gadgets-admin/undefined/e84ea7bf1f5246529430f140c26c6b9c-图层 4.png,装备,,6,护盾嘲讽
+旋风斧,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/旋风斧.png,装备,,6,造成伤害时，所有友方1攻击
+天使手镜,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/天使手镜.png,装备,,6,护盾该随从可以拥有多层护盾
+反射镜,https://pic.iyingdi.com/gadgets-admin/undefined/03c4367b99914279b39f3b55b73f8d51-反射镜.png,装备,,6,受到伤害时，对随机敌方造成一半伤害
+飓风法杖,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飓风法杖.png,装备,,6,其他友方攻击时，该随从获得其一半攻击力
+亡灵饼干,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡灵饼干.png,装备,,6,该随从的遗言效果额外触发1次
+怀表,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/怀表.png,装备,,6,该随从的成长效果额外触发1次
+猪皮背包,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/猪皮背包.png,装备,,6,装备槽+2
+远古十字架,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/远古十字架.png,装备,,6,成长：10生命
+雷刃,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雷刃.png,装备,,6,攻击后，所有友方获得2层增伤
+鹿角,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鹿角.png,装备,,6,所有友方具有2层增伤
+护身符,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/护身符.png,装备,,6,30生命
+飞斧,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飞斧.png,装备,,6,攻击后，随机2个其他友方获得该随从一半的攻击力
+斩龙斧,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/斩龙斧.png,装备,,6,成长：10攻击
+鬼摇铃,https://pic.iyingdi.com/gadgets-admin/undefined/2882eb3fc622445c9d1fd9d70a4afd6f-44.png,装备,,6,获得+7+7本随从击杀效果额外触发1次
+灼热斗篷,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/灼热斗篷.png,装备,,6,被攻击时，先对攻击者造成2点伤害2次
+灵魂结晶,https://pic.iyingdi.com/gadgets-admin/undefined/36c4d91b04064d81a11aa55c8121ae1c-灵魂结晶.png,装备,,6,先手：对随机3个敌方造成4点伤害，并获得伤害值等量的生命
+龙之宝珠,https://pic.iyingdi.com/gadgets-admin/undefined/462422401c5741a89689322106d566a5-30-8.png,装备,,6,该随从的先手效果额外触发1次
+疯狂头骨,https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/疯狂头骨.png,装备,,6,疯狂该随从每有1层疯狂，获得+5+5
+女巫坩埚,https://pic.iyingdi.com/gadgets-admin/undefined/180ddaf0226b484abe8ba3cd751aa8c4-图层 19.png,装备,,6,2层增伤，先手:每装备1张装备牌，获得1层增伤
