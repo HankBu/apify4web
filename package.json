@@ -6,7 +6,7 @@
     "dev": "node --inspect ./iyingdi/index.js"
   },
   "dependencies": {
-    "apify": "^3.1.15",
+    "apify": "^3.1.16",
     "cheerio": "^1.0.0-rc.12",
     "crawlee": "^3.8.1",
     "papaparse": "^5.4.1",
