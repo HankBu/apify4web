@@ -1,0 +1,3610 @@
+[
+  {
+    "cardName": "机器人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机器人.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "1",
+    "desc": "遗言：召唤1个2星随从"
+  },
+  {
+    "cardName": "机械熊仔",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/729028e005d8480aa6c27bb1ddc32370-1703646748057.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "1",
+    "desc": "击杀：永久+1生命"
+  },
+  {
+    "cardName": "小型炮弹",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小型炮弹.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "2",
+    "desc": "附着，遗言：造成3点伤害"
+  },
+  {
+    "cardName": "科研装置",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/科研装置.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "2",
+    "desc": "成长：获得1点经验"
+  },
+  {
+    "cardName": "发条机械",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9b1331516f1d4683b8d023ea3591e3b9-QQ浏览器截图20240223210627.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "2",
+    "desc": "入场：获得1张随机2星随从"
+  },
+  {
+    "cardName": "机械兔",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械兔.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "3",
+    "desc": "遗言：造成20点伤害"
+  },
+  {
+    "cardName": "机械信使",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0f974d355b67402aa9adfb26a155dbf7-1698736483189.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "3",
+    "desc": "入场：随机使2个其他友方获得+3+2"
+  },
+  {
+    "cardName": "充能炮",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a14235e972bb42c9ba1b1d08ce181077-充能炮.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "3",
+    "desc": "友方死亡时，对随机敌方造成2点伤害"
+  },
+  {
+    "cardName": "全副武装",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/364898eacd8e40a9bbb75e40e70424d7-1696924176725.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "3",
+    "desc": "附着，每装备1件装备，获得+2+2"
+  },
+  {
+    "cardName": "零件商贩",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e92ddf25a9e042c4beff5dcbfa233c72-图层 12.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "3",
+    "desc": "每在战斗中召唤1个随从，获得1金币"
+  },
+  {
+    "cardName": "智能机器人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f62c426a6b284ce2a05d0489c02e6078-图层 8.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "遗言：友方获得+2+2及2层增伤"
+  },
+  {
+    "cardName": "防御要塞",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/22e00ab5da3a45f98fc5a7449eeb949a-1696924756645.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "嘲讽，遗言：对随机敌人造成等同于攻击力的伤害"
+  },
+  {
+    "cardName": "弱点侦察机",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弱点侦察机.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "附着，成长：所有友方+1攻击"
+  },
+  {
+    "cardName": "机械犬",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械犬.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "遗言：召唤1个随机遗言随从。"
+  },
+  {
+    "cardName": "拾荒者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3211e59d475347808a6ac3f2712fcd4a-图层 18.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "友方遗言随从死亡时，该随从永久获得+2+4"
+  },
+  {
+    "cardName": "玩具商人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/玩具商人.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "你的其他机械具有遗言：召唤1个随机随从"
+  },
+  {
+    "cardName": "扳手助理",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/扳手助理.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "在你对友方使用附着随从后，获得1个随机随从"
+  },
+  {
+    "cardName": "智慧星",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/151db7337af4497980159a66592cc818-智慧星.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "4",
+    "desc": "冥想1回合：获得1张随机附着牌并使手中随从牌获得+4+4"
+  },
+  {
+    "cardName": "钢筋铁甲",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/78c176e08aff43dc866f1cc8f17a4eb0-图层 12.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "5",
+    "desc": "装备槽+1，成长：每装备1张装备牌获得+3+3"
+  },
+  {
+    "cardName": "改装师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/804c83e8a2e546249ee4454c784541f6-QQ浏览器截图20240223210408.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "5",
+    "desc": "友方攻击时，所有友方获得1层增伤"
+  },
+  {
+    "cardName": "铁皮人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b14d2304292e48cd8005621f1d8b8837-1696924933164.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "5",
+    "desc": "你的其他机械具有遗言：所有友方获得+2+2"
+  },
+  {
+    "cardName": "发条淑女",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ca0e81b9aed84cab949cc0919c899b88-1703646838106.jpg",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "5",
+    "desc": "成长：永久使商店所有随从获得+2+2"
+  },
+  {
+    "cardName": "扩音器",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/扩音器.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "6",
+    "desc": "无法攻击，其他友方攻击时，获得扩音器一半攻击力"
+  },
+  {
+    "cardName": "炸药飞艇",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/炸药飞艇.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "6",
+    "desc": "先手：获得同排其他友方的遗言"
+  },
+  {
+    "cardName": "钢铁之躯",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/钢铁之躯.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "6",
+    "desc": "入场：重新附着所有附着牌到该随从身上"
+  },
+  {
+    "cardName": "机械套娃",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械套娃.png",
+    "type": "随从",
+    "race": "机械",
+    "rarity": "6",
+    "desc": "入场：吞噬1个随从，获得遗言：召唤吞噬的随从的复制"
+  },
+  {
+    "cardName": "飞龙幼崽",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飞龙幼崽.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "1",
+    "desc": "先手：造成3点伤害"
+  },
+  {
+    "cardName": "龙语者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/龙语者.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "1",
+    "desc": "入场：获得1张随机1星随从"
+  },
+  {
+    "cardName": "捣蛋龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/fc7a78b56e1b402db0aef04b50f1ee3f-捣蛋龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "1",
+    "desc": "先手：使第1个友方获得+2+2"
+  },
+  {
+    "cardName": "保护之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/6b076aa051584d20a8876b6d290e6682-保护之龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "2",
+    "desc": "遗言：使1个友方获得+2+2和护盾"
+  },
+  {
+    "cardName": "烈焰雏龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/烈焰雏龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "2",
+    "desc": "遗言：使1个友方获得+3+3以及横扫"
+  },
+  {
+    "cardName": "超凡驯龙师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0d2c1622670240ecafaea86d34fd51ef-1696925848442.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "2",
+    "desc": "友方触发先手效果时，都会永久获得+1+1"
+  },
+  {
+    "cardName": "淘气小龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d8098f6bcb9343859403b0ba7d4616d4-淘气小龙.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "2",
+    "desc": "先手：每有2点攻击，获得1点生命"
+  },
+  {
+    "cardName": "炎翼龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/炎翼龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "先手：造成4点伤害2次"
+  },
+  {
+    "cardName": "法术龙灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/法术龙灵.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "附着，先手：获得+3+3"
+  },
+  {
+    "cardName": "死亡之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f4e34b13c4ae42198cbc930966378196-1703646334871.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "遗言：造成4点伤害成长：友方遗言随从获得+2+1"
+  },
+  {
+    "cardName": "白骨龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/白骨龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "嘲讽遗言：使攻击最高的友方获得+7+7"
+  },
+  {
+    "cardName": "大地之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9235dc3864b845efbc8d5fd3a0eca356-大地之龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "每触发1个先手效果，该随从永久获得+1+2"
+  },
+  {
+    "cardName": "龙蛋吞噬者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3079e8ec86fa4c5f969b66749f849ff2-1696926069761.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "3",
+    "desc": "友方遗言随从死亡时，获得1点经验"
+  },
+  {
+    "cardName": "守护之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/守护之龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "先手：所有友方获得+3+3"
+  },
+  {
+    "cardName": "风龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/51a5d5083eb146469030f5541ff38239-图层 6.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "友方具有击杀：+1经验"
+  },
+  {
+    "cardName": "幽龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7af98b5bc2c845c9a765f0f8131095f7-1696926324364.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "击杀：随机触发1个友方的遗言效果"
+  },
+  {
+    "cardName": "龙骑士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/龙骑士.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "附着，附着后，所有友方获得+2+2"
+  },
+  {
+    "cardName": "水之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/水之龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "先手：同列的另1个友方获得+10+10"
+  },
+  {
+    "cardName": "龙语诗人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/549cc615f2fb45d0a94fc04531cc8706-龙语诗人.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "4",
+    "desc": "冥想2回合：获得5星和6星随从各1张"
+  },
+  {
+    "cardName": "强袭飞龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/强袭飞龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "5",
+    "desc": "攻击时获得护盾，若已有护盾，再获得+10+10"
+  },
+  {
+    "cardName": "噬魂之龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b4fc32afd4b74d14bb4fd9ca2345cfcd-1703646254958.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "5",
+    "desc": "无法攻击，友方遗言随从死亡时，随机友方随从获得其一半属性值"
+  },
+  {
+    "cardName": "圣龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/圣龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "5",
+    "desc": "先手：使2个随机友方获得护盾"
+  },
+  {
+    "cardName": "赐福者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d9c67766232e4305aa1bf2f7cee9e06c-赐福者.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "5",
+    "desc": "该随从在战斗中获得属性值时，使1个非赐福者友方获得相同属性值"
+  },
+  {
+    "cardName": "灾厄巨龙",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ad8e8d1405054807b092f0761a460434-1696926524366.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "5",
+    "desc": "攻击后，触发同排其他友方的先手效果"
+  },
+  {
+    "cardName": "栖湖古龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/栖湖古龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "6",
+    "desc": "友方先手效果触发2次*"
+  },
+  {
+    "cardName": "白骨龙灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/532baa267cd947dcb4361614072263fc-白骨龙灵.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "6",
+    "desc": "遗言：使1个友方获得该随从的属性值"
+  },
+  {
+    "cardName": "雌火龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雌火龙.png",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "6",
+    "desc": "成长：获得+2+2先手：第1个其他友方获得该随从一半的属性值"
+  },
+  {
+    "cardName": "龙骑士队长",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8a5b2b5b423c44d49fcc9475d64061b2-1696926591637.jpg",
+    "type": "随从",
+    "race": "龙",
+    "rarity": "6",
+    "desc": "成长：获得1张龙骑士"
+  },
+  {
+    "cardName": "祈星师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/862cf55d645f45c68e365225ec437e3e-祈星师.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "1",
+    "desc": "冥想2回合：获得1张随机星裔牌"
+  },
+  {
+    "cardName": "养蝎人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/83379cd2f93a4a8f91e61ebbe6973040-图层 3.png",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "1",
+    "desc": "卖出时，使每种阵营各1各友方获得+2+1"
+  },
+  {
+    "cardName": "牧羊人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e6fcb6651933430b966240fad8d306e8-牧羊人.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "1",
+    "desc": "冥想2回合：第1个友方获得+2+2"
+  },
+  {
+    "cardName": "半人马",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/29ca259a8d944ea1ac87d43e71be0787-半人马.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "2",
+    "desc": "冥想2回合：友方每存在1种阵营，本随从获得+1+1"
+  },
+  {
+    "cardName": "宝瓶工匠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b998bed018ce4d0cb47db05e04cd56e7-图层 6.png",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "2",
+    "desc": "冥想2回合：其他友方获得+2+2"
+  },
+  {
+    "cardName": "启明星使",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2eae10a70d804c78b9c45d77b2d2850a-启明星使.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "2",
+    "desc": "在你升级时，获得1张随机冥想牌"
+  },
+  {
+    "cardName": "黄金狮子",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a38d5d37e06941a5b794d7f1506863b8-黄金狮子.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "冥想2回合：友方每存在1种阵营，获得1金币"
+  },
+  {
+    "cardName": "双子骑士",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/05a4f1f9944d425eb353bace8e7f0d21-双子骑士.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "成长：友方双子骑士获得+2+3"
+  },
+  {
+    "cardName": "许愿星灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/91df4c2d7fc4498f88c807ab3e6ddfcd-许愿星灵.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "附着，附着后，友方冥想加速1回合"
+  },
+  {
+    "cardName": "星河巨蟹",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8ee8445fd18c4385a78dcaebb0df7b8b-星河巨蟹.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "护盾，冥想2回合：友方获得+4攻击"
+  },
+  {
+    "cardName": "冥思者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3a49349b1da549dd87f7be7380f3e379-图层 13.png",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "友方冥想每进行1回合，本随从获得+2+3"
+  },
+  {
+    "cardName": "星轨测绘师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3741e8101e6745f7afbfb839ebe192dd-星轨测绘师.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "3",
+    "desc": "友方冥想每进行1回合，获得1点经验"
+  },
+  {
+    "cardName": "银河游鱼",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/49046255b52c46a499b1650c3447258e-银河游鱼.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "4",
+    "desc": "冥想1回合：获得2张冥想随从"
+  },
+  {
+    "cardName": "引星者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/aa3d6ee5ce3f4d719c81401313d091d2-引星者.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "4",
+    "desc": "成长：友方每存在1种阵营，同列另1个友方获得+1+2"
+  },
+  {
+    "cardName": "星星射手",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/790d237d267646acae9b0ab7986d5bc0-星星射手.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "4",
+    "desc": "先手：友方每存在1种阵营，造成2点伤害"
+  },
+  {
+    "cardName": "流星使者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e4224a98e9a2409e9406163d20e7d34c-流星使者.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "入场：获得1张许愿星灵"
+  },
+  {
+    "cardName": "星图画家",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/acf7776baca8467a86d003f35644e82f-图层 8.png",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "入场：刷新商店，出现3张附着牌并使其获得+5+5"
+  },
+  {
+    "cardName": "天平守卫",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d6830858c7c549db9f28f1a6ee7c27ad-天平守卫.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "使1个友方-10-10，第1个友方获得等同其失去的属性"
+  },
+  {
+    "cardName": "星空旅者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a97705c486cb44b28cfe427887e3a1d4-星空旅者.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "抉择：挑选1张冥想牌，或者立即完成场上所有冥想"
+  },
+  {
+    "cardName": "太阳之子",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/090dab6707be46cfbde5a85e3d4c1e3d-太阳之子.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "冥想2回合：同列的另1个友方获得+4+4以及护盾"
+  },
+  {
+    "cardName": "智慧国王",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8bf839f97e184f20b47ac457ce6873ab-智慧国王.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "友方冥想效果触发2次"
+  },
+  {
+    "cardName": "摩羯之影",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7d968201032743789255893982ee5a61-摩羯之影.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "冥想2回合：获得+4+4，并重新冥想"
+  },
+  {
+    "cardName": "幽冥星使",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/076d4bb9dc214d94bdcdce82d5b24299-幽冥星使.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "嘲讽，遗言：每种阵营的1个友方永久获得+4+4"
+  },
+  {
+    "cardName": "织星天女",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/cd60dc26988e4ff78756e0c2ef1e3b1e-QQ浏览器截图20240223210656.png",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "5",
+    "desc": "遗言：获得1张冥想随从"
+  },
+  {
+    "cardName": "星系建筑师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/95cba2c801fa40eebf0130bc86b7e0ef-星系建筑师.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "6",
+    "desc": "对友方使用附着随从时，同时附着给每个阵营各1个友方"
+  },
+  {
+    "cardName": "夜空之角",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1856f651564b4f139292322e0919621d-夜空之角.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "6",
+    "desc": "冥想3回合：同列的另1个友方变为金色"
+  },
+  {
+    "cardName": "月光骑士",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/53a0daf49cbf446b878288e4acfed651-月光骑士.jpg",
+    "type": "随从",
+    "race": "星裔",
+    "rarity": "6",
+    "desc": "冥想1回合：同排其他友方获得＋10+10"
+  },
+  {
+    "cardName": "耐心蜘蛛",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/耐心蜘蛛.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "1",
+    "desc": "遗言：造成2点伤害"
+  },
+  {
+    "cardName": "鹳鸟",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/642c71606bcf442684476b412db4dc47-1696926683894.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "1",
+    "desc": "击杀：造成2点伤害"
+  },
+  {
+    "cardName": "水獭",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/540b24b40c094609abeac25d015c5f1d-水獭.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "1",
+    "desc": "入场：获得1点经验"
+  },
+  {
+    "cardName": "贪睡蝙蝠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/5cf58dd7f56c417897436563a0819d4b-QQ浏览器截图20240223210519.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "2",
+    "desc": "无法攻击，其他友方攻击后，该随从对随机敌方造成2点伤害"
+  },
+  {
+    "cardName": "穿山甲弟弟",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/6c58c1d5e97c46569373d541a3d200df-QQ浏览器截图20240223210612.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "2",
+    "desc": "入场：使1个友方获得+3+3"
+  },
+  {
+    "cardName": "蝴蝶看守",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蝴蝶看守.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "2",
+    "desc": "遗言：造成2点伤害3次"
+  },
+  {
+    "cardName": "蹦蹦鹿",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ace7754ea17b4c838b9198a9b5cedf00-1698736082263.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "2",
+    "desc": "使用入场牌时，获得1点经验"
+  },
+  {
+    "cardName": "萤火虫",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/萤火虫.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "2",
+    "desc": "在你升级时，获得1张随机入场牌"
+  },
+  {
+    "cardName": "黑马",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑马.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "当友方造成伤害时，该随从获得+1+1"
+  },
+  {
+    "cardName": "猎豹",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e1021e3cfae04f238bd7a97cd3b5485e-QQ浏览器截图20240223210458.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "当你使用入场牌时，同排友方获得+1+1"
+  },
+  {
+    "cardName": "小蜜蜂",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/82deefee9ab74be09d79fe2f36b05127-图层 13.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "附着，1层增伤"
+  },
+  {
+    "cardName": "贪财松鼠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c384d23996f649c6ae0b52acd643d1ee-1696926948511.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "入场：获得1金币遗言：获得1金币"
+  },
+  {
+    "cardName": "袖珍枪手",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1b42e017c0cb4de68f1555d27a3ad9aa-袖珍枪手.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "攻击时，先对随机3个敌方造成2点伤害"
+  },
+  {
+    "cardName": "信鸽",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1ac472e807a04ef0b28163c2e37daf3d-1703649836564.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "3",
+    "desc": "入场：获得1张随机野兽牌"
+  },
+  {
+    "cardName": "地狱三头犬",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9ad258b1aea746b2a014cc51ec284a26-3.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "横扫成长：+4攻击"
+  },
+  {
+    "cardName": "怒熊",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/600127b4173749b8907187a79bf90b64-图层 6.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "遗言：造成3点伤害2次。成长：获得1层增伤"
+  },
+  {
+    "cardName": "异国刺客",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/异国刺客.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "遗言：对所有随从造成1点伤害"
+  },
+  {
+    "cardName": "丛林枭兽",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f57250220147467f99ed34726a728ef8-丛林枭兽.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "遗言：使随机敌方的属性值减半"
+  },
+  {
+    "cardName": "炙火蝎",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3ce04710fc224d70b0d38836e89c85d0-炙火蝎.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "先手：同排友方获得2层增伤"
+  },
+  {
+    "cardName": "北极熊",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e4d1ffa6e6da48db9586e5c2ab663213-2.jpg",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "4",
+    "desc": "冥想2回合：友方获得2层增伤"
+  },
+  {
+    "cardName": "猫头鹰法师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/猫头鹰法师.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "5",
+    "desc": "入场：获得1张随机入场牌"
+  },
+  {
+    "cardName": "鼠王",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鼠王.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "5",
+    "desc": "友方攻击后，其触发自身遗言"
+  },
+  {
+    "cardName": "毒蛇女王",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1b60ce78edce41a4853d6bb752ee0aff-图层 13.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "5",
+    "desc": "友方遗言触发时，毒蛇女王永久获得+3+3"
+  },
+  {
+    "cardName": "大耳火犬",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/fda6f01fe640482390f68427ca13779e-QQ浏览器截图20240223210708.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "5",
+    "desc": "入场：使1个友方获得1层增伤，并使其每有1层增伤获得+2+2"
+  },
+  {
+    "cardName": "金刚",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/bb975a23d7484f2a9d7d3e51bd4cd94a-图层 16.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "6",
+    "desc": "其他友方造成伤害时，本随从永久获得+1+1"
+  },
+  {
+    "cardName": "火枪支配者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/875aae70cdc040dc908542223c79a753-火枪支配者.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "6",
+    "desc": "友方攻击时，该随从对3个敌方造成3点伤害"
+  },
+  {
+    "cardName": "老鹦哥",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/老鹦哥.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "6",
+    "desc": "同排友方攻击时，获得1张随机入场牌"
+  },
+  {
+    "cardName": "野猪",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/801b9459230e4a2b843a5f721eabfbd8-野猪.png",
+    "type": "随从",
+    "race": "野兽",
+    "rarity": "6",
+    "desc": "攻击后，触发所有友方的入场效果"
+  },
+  {
+    "cardName": "鬼火",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2ecd413de5174b6997af30ec5ea8e9ce-1703645688320.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "1",
+    "desc": "在你召唤一个随从后，使其+1+1"
+  },
+  {
+    "cardName": "亡魂宝箱",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂宝箱.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "1",
+    "desc": "遗言：召唤亡魂"
+  },
+  {
+    "cardName": "罗生门",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/罗生门.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "2",
+    "desc": "友方攻击时，其获得+2+1"
+  },
+  {
+    "cardName": "夺魂者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8e2b2173b1a74dbdbedb8a79d5766641-1703649736453.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "2",
+    "desc": "疯狂"
+  },
+  {
+    "cardName": "冥界使者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/冥界使者.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "2",
+    "desc": "友方死亡时，该随从获得+1+2"
+  },
+  {
+    "cardName": "亡魂吹笛者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂吹笛者.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "2",
+    "desc": "入场：你之后召唤的亡魂具有+2+2"
+  },
+  {
+    "cardName": "冥界导游",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2af8dad105754ab89a780ba6bdbdf2b8-图层 7.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "2",
+    "desc": "遗言：召唤亡魂并永久使所有亡魂具有+1攻击"
+  },
+  {
+    "cardName": "幽灵船长",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/85c6b2d1f1734fb2ad879dfd28112b28-幽灵船长.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "每在战斗中召唤1个随从，永久获得+1+3"
+  },
+  {
+    "cardName": "亡魂舞者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/4cb8f80799fb46558c2d7226d48e49ca-1703649316158.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "成长：你之后召唤的亡魂具有+1+1"
+  },
+  {
+    "cardName": "灵魂鼓手",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/11f5f790db8f4f2c80dbdab42b11fe9b-pvp160.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "在战斗中召唤随从时，使所有友方获得+2+1"
+  },
+  {
+    "cardName": "处刑人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/fc583a70c95b4a4a990bcb8825618eec-处刑人.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "击杀：同排友方永久获得+1+1"
+  },
+  {
+    "cardName": "幽灵大盗",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c4c555c40a29409daed2f559a25cd401-幽灵大盗.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "击杀：获得1金币"
+  },
+  {
+    "cardName": "引路者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8678255fefe242ad84158fe3b8bc4cd9-图层 9.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "3",
+    "desc": "获得你每次战斗中召唤的首个随从的原始复制"
+  },
+  {
+    "cardName": "魂引者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/72d0c418d2d0474098e328bb8a7120d9-魂引者.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "友方攻击时，所有友方获得+1+1"
+  },
+  {
+    "cardName": "亡魂音乐盒",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f14e4df496804223af92b8b180bdec6b-亡魂音乐盒.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "入场：使1个友方获得遗言：召唤亡魂"
+  },
+  {
+    "cardName": "亡魂执政官",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡魂执政官.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "遗言：召唤亡魂击杀：之后召唤的亡魂具有+1+1"
+  },
+  {
+    "cardName": "灵魂祭司",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/65feffcb2bab4ae5a74eeec70f1a2c91-灵魂祭司.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "先手：触发同列的另1个友方的击杀效果"
+  },
+  {
+    "cardName": "亡魂铁匠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/719ae1680e0243c9afac491119e6377e-img_v2_817bf244-8626-466b-9ef8-fabc3c3d695g.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "共享自身装备效果给友方的亡魂"
+  },
+  {
+    "cardName": "幽灵巡礼者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7f90750bcc6d497b9ed6d77fee77edb7-幽灵巡礼者.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "4",
+    "desc": "冥想2回合：同列的另1个友方获得+10+10"
+  },
+  {
+    "cardName": "石中剑",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/19b9267369c0469d941274cf1d850eb5-石中剑.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "5",
+    "desc": "你的所有随从具有疯狂以及+2+2"
+  },
+  {
+    "cardName": "灵魂缝合师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2ccb29259c85483dbfcd67a787eafcd4-灵魂缝合师.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "5",
+    "desc": "入场：获得一张具有附着的亡魂"
+  },
+  {
+    "cardName": "追猎者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/99f427ef4f19498cb676d2fb270c3c7b-追猎者.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "5",
+    "desc": "附着，攻击后，对2个敌方造成5点伤害"
+  },
+  {
+    "cardName": "亡魂歌者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/39889100233749eb90597e0274a17658-图层 11.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "5",
+    "desc": "先手：同排友方获得遗言：召唤亡魂"
+  },
+  {
+    "cardName": "古堡幽灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/古堡幽灵.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "6",
+    "desc": "该随从的属性变化时，变化数量翻倍"
+  },
+  {
+    "cardName": "献祭者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/献祭者.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "6",
+    "desc": "击杀：获得+4+4所有友方互相共享击杀效果*"
+  },
+  {
+    "cardName": "灾厄",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/灾厄.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "6",
+    "desc": "每在战斗中召唤1个随从，使1个友方获得召唤随从的属性值"
+  },
+  {
+    "cardName": "缚魂棺",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/672547bd84964796b8d1a45649ec1386-1698736406718.jpg",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "6",
+    "desc": "友方随从死亡时，该随从获得遗言：召唤随机遗言随从"
+  },
+  {
+    "cardName": "侍僧",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b286142985304965a1356efdad4520a3-侍僧.png",
+    "type": "随从",
+    "race": "幽灵",
+    "rarity": "6",
+    "desc": "入场：移除1个商店中的随从，之后召唤的亡魂获得其属性值"
+  },
+  {
+    "cardName": "伐木工叔叔",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/4a49c7e9fe4c459ab294d1e075273b0a-1696929220018.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "1",
+    "desc": "护盾"
+  },
+  {
+    "cardName": "守卫",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/守卫.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "1",
+    "desc": "无法攻击"
+  },
+  {
+    "cardName": "渔夫",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/91cd3d39cd894ecb80296c9ccf4a570c-1696929248270.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "1",
+    "desc": "成长：使另2个友方+1攻击"
+  },
+  {
+    "cardName": "镣铐野人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/镣铐野人.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "2",
+    "desc": "攻击时，永久获得+1+1"
+  },
+  {
+    "cardName": "逃犯",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/逃犯.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "2",
+    "desc": "遗言：所有友方获得+2+2"
+  },
+  {
+    "cardName": "见习侍卫",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/12ba884dd53e40ac9e63c635ccc99b02-QQ浏览器截图20240223210511.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "2",
+    "desc": "入场：你购买的下个随从获得+3+3"
+  },
+  {
+    "cardName": "盾弩手",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f4f39042b4cf49a2aabf8db5e515aa8c-1698736104804.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "2",
+    "desc": "护盾，友方失去护盾时，该随从造成2点伤害"
+  },
+  {
+    "cardName": "丛林巨人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/eb39476883b04ed29038625071520684-1703659029180.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "无法攻击，成长：每有1个无法攻击的友方，该随从获得+1+2"
+  },
+  {
+    "cardName": "队长",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/队长.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "护盾，成长：所有具有护盾的友方+2攻击"
+  },
+  {
+    "cardName": "刽子手",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/刽子手.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "入场：其他友方获得+2+1"
+  },
+  {
+    "cardName": "双持盾兵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d7cb5e9df4884b7a811ea72762c6e070-1698736270302.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "无法攻击，被攻击时，永久获得+1+1"
+  },
+  {
+    "cardName": "玫瑰盾卫",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/059b85b3415e4e338013497c2fc75f8b-QQ浏览器截图20240223210312.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "友方获得攻击时，该随从获得+1生命"
+  },
+  {
+    "cardName": "神秘铁匠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/93a7ebf534e54643951626aa1ceadca0-神秘铁匠.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "3",
+    "desc": "卖出时，挑选1张当前等级的装备牌"
+  },
+  {
+    "cardName": "贴身保镖",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贴身保镖.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "4",
+    "desc": "附着，护盾"
+  },
+  {
+    "cardName": "闯入者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/69eca4e18816466e9a363284eba0dd29-闯入者.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "4",
+    "desc": "先手：每装备1张装备牌，获得+10+10"
+  },
+  {
+    "cardName": "宫廷管家",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/6210e8c23f9545b1b63b16fca05d8742-1698736572681.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "4",
+    "desc": "每花费12金币，获得1张随机装备牌"
+  },
+  {
+    "cardName": "蔷薇骑士",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f0c9f0624b6343ee809a32cfd5f9feeb-1703659336877.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "4",
+    "desc": "护盾，单次战斗中，友方每失去3层护盾，获得1张随机入场牌"
+  },
+  {
+    "cardName": "斗士",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/00bd053be86d4052bfeb5d92ad952dae-图层 2.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "4",
+    "desc": "攻击时，所有友方永久获得+1+2"
+  },
+  {
+    "cardName": "裁决者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/裁决者.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "入场：随机友方+3+3场上每存在1层护盾，重复1次"
+  },
+  {
+    "cardName": "纵火者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/纵火者.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "护盾，失去护盾时，对所有敌方造成4点伤害"
+  },
+  {
+    "cardName": "保护者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/保护者.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "攻击时，使2个其他友方获得护盾"
+  },
+  {
+    "cardName": "老猎人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b3f50a755f894d7ea1677b5320409023-图层 11.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "护盾，友方失去护盾时，该随从获得遗言：造成10点伤害"
+  },
+  {
+    "cardName": "野牛骑士长",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/686e7995d4db47eeb453d6160685bbc4-QQ浏览器截图20240223210119.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "成长：友方装备的每件装备使装备者获得+2+2"
+  },
+  {
+    "cardName": "裁缝",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7574e2746fda48ec8d94095b2e3fcfd2-裁缝.jpg",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "5",
+    "desc": "冥想1回合：同列另一个友方装备槽+1"
+  },
+  {
+    "cardName": "受祝福的勇士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/受祝福的勇士.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "6",
+    "desc": "入场：获得其他友方攻击之和的一半的生命"
+  },
+  {
+    "cardName": "持盾战士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/持盾战士.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "6",
+    "desc": "护盾*2。你的随从可以拥有多层护盾"
+  },
+  {
+    "cardName": "骑士铠甲",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c8c9f642bf9d4beabcf68d1d7f89ff79-其实铠甲.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "6",
+    "desc": "附着，装备槽+1。"
+  },
+  {
+    "cardName": "玫瑰公爵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/220d87967ef54e69a308e18dd9c379d1-玫瑰公爵.png",
+    "type": "随从",
+    "race": "战士",
+    "rarity": "6",
+    "desc": "无法攻击，友方在被攻击时，所有友方获得+1+2"
+  },
+  {
+    "cardName": "窃贼",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/窃贼.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "1",
+    "desc": "卖出时，获得商店最左侧的物品"
+  },
+  {
+    "cardName": "鉴赏家",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鉴赏家.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "2",
+    "desc": "卖出时，商店所有物品变化为星级+1的物品"
+  },
+  {
+    "cardName": "法力图腾",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/法力图腾.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "2",
+    "desc": "每回合可以免费刷新1次"
+  },
+  {
+    "cardName": "变色龙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/变色龙.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "3",
+    "desc": "可以代替1张1-3星随从进行三连"
+  },
+  {
+    "cardName": "小鬼娃娃",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小鬼娃娃.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "3",
+    "desc": "友方具有1层增伤"
+  },
+  {
+    "cardName": "大厨",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/737b7dd6d8794e52b45ec842b2e85426-QQ浏览器截图20240223210640.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "3",
+    "desc": "卖出时，挑选1张咒术牌"
+  },
+  {
+    "cardName": "废土旅人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/废土旅人.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "3",
+    "desc": "在你刷新后，将商店最左侧的物品变为+1星的物品"
+  },
+  {
+    "cardName": "神射手",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/神射手.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "护盾，先手：立即攻击1个后排敌方"
+  },
+  {
+    "cardName": "武器小偷",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/武器小偷.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "入场：获得1张随机装备牌"
+  },
+  {
+    "cardName": "催眠师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/催眠师.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "入场：使1个友方获得1层增伤"
+  },
+  {
+    "cardName": "魔靴",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e9b3a6de117445ad96fd715cc5a18d77-QQ浏览器截图20240223210443.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "附着，可以附着给任意随从"
+  },
+  {
+    "cardName": "探险者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/探险者.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "入场：接下来3次刷新不消耗金币"
+  },
+  {
+    "cardName": "集结号手",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/集结号手.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "入场：选择1个友方，使商店刷出同阵营随从"
+  },
+  {
+    "cardName": "典狱长",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ef856ac1c6e848879b30bdf288e410e0-1703646891408.jpg",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "无法攻击，嘲讽，护盾"
+  },
+  {
+    "cardName": "海盗宝箱",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/海盗宝箱.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "成长：获得2金币"
+  },
+  {
+    "cardName": "杀手鱼人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/杀手鱼人.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "攻击时，获得等同于对方生命的攻击"
+  },
+  {
+    "cardName": "假面人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ab2cee9a322a4f8380169299ba827b78-图层 18.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "冥想1回合：变形为+1星随从，并获得+3+3"
+  },
+  {
+    "cardName": "科学家",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/42d01e6e96a1493b871af7cf9c6b0a24-科学家.jpg",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "4",
+    "desc": "冥想2回合：获得6经验"
+  },
+  {
+    "cardName": "寻宝狗头人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c869b52341744bef9f598bbc0eca3a88-寻宝狗头人.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "友方入场效果触发2次"
+  },
+  {
+    "cardName": "魔法精灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/95c0b7f2ef3243abbc931edebedda30f-pvp23.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "入场：触发所有友方成长效果1次"
+  },
+  {
+    "cardName": "酩酊酒客",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3dc1dab9168642f59f9fdd377a3c720b-1703659237331.jpg",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "卖出该随从时，获得1张当前等级的随从"
+  },
+  {
+    "cardName": "傀儡陷阱",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/傀儡陷阱.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "遗言：使消灭该随从的单位生命值变为1"
+  },
+  {
+    "cardName": "勇敢挑战者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/勇敢挑战者.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "攻击时，使对方属性值减半"
+  },
+  {
+    "cardName": "精英刺客",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精英刺客.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "疯狂，攻击时，移除对方的护盾和遗言效果"
+  },
+  {
+    "cardName": "防御者",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b3441ba3f59a4871ad1d0a0ba494cc82-防御者.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "先手：所有友方+8生命"
+  },
+  {
+    "cardName": "炸药专家",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/589773fa0c304e8c81c4937a22131acb-1703646696668.jpg",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "遗言：对敌方后排造成4点伤害，触发2次"
+  },
+  {
+    "cardName": "抄写员",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/844b892292db401197c007b75d13d244-抄写员.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "5",
+    "desc": "入场：选择1个友方，战斗结束后，变形为选择的友方的原始复制"
+  },
+  {
+    "cardName": "死灵傀儡师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/死灵傀儡师.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "友方遗言触发2次*"
+  },
+  {
+    "cardName": "泉水之灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/90f4d78f3cf44301a0f5877249f58446-泉水之灵.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "友方成长效果触发2次*"
+  },
+  {
+    "cardName": "魔镜",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔镜.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "可以代替1张4-6星随从进行三连"
+  },
+  {
+    "cardName": "鬼娃娃",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鬼娃娃.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "友方具有3层增伤"
+  },
+  {
+    "cardName": "哑巴先知",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f4715abb0eb54f04b53b4912e3c2a282-1698736685068.jpg",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "成长：获得1张随机咒术牌"
+  },
+  {
+    "cardName": "沉默医师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/沉默医师.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "入场：使1个友方+15生命"
+  },
+  {
+    "cardName": "魔女",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔女.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "攻击时，将该随从和对方一并移除"
+  },
+  {
+    "cardName": "海盗船",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f74df87d157949ab8025e90fb4cf29ca-图层 19.png",
+    "type": "随从",
+    "race": "中立",
+    "rarity": "6",
+    "desc": "攻击时，召唤2个随机遗言随从并使其先攻击目标"
+  },
+  {
+    "cardName": "魔法树苗",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/adcac8c38845413ca77942c7ed08082c-图层 4.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "1",
+    "desc": "成长：+1生命"
+  },
+  {
+    "cardName": "小树精",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小树精.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "1",
+    "desc": "受到伤害时，随机造成2点伤害"
+  },
+  {
+    "cardName": "苔藓宝宝",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2c634fde8b28427782bb3e22b25f5bce-苔藓宝宝.jpg",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "1",
+    "desc": "受伤后，永久+1攻击"
+  },
+  {
+    "cardName": "小石精",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/小石精.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "2",
+    "desc": "攻击后，对所有其他随从造成1点伤害"
+  },
+  {
+    "cardName": "食人花",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/食人花.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "2",
+    "desc": "遗言：所有友方+5生命"
+  },
+  {
+    "cardName": "南瓜卫士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/南瓜卫士.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "2",
+    "desc": "入场：使1个友方+5生命"
+  },
+  {
+    "cardName": "草灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b57a672c93a14e8a9027e023ed23def3-图层 7.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "2",
+    "desc": "成长：同排友方获得+1+1"
+  },
+  {
+    "cardName": "复仇树精",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/复仇树精.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "受到伤害时，所有友方+2攻击"
+  },
+  {
+    "cardName": "魔法南瓜",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔法南瓜.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "成长：所有友方+1生命"
+  },
+  {
+    "cardName": "狂乱树精",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3139f7cd55ad4c139b37d8f2e9a17b6a-图层 11.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "卖出随从时，该随从获得+1+2"
+  },
+  {
+    "cardName": "小蘑菇",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b1e40df699ed43389fe69a928fdedad8-小蘑菇.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "成长：获得1+1卖出时，转移属性值给1个随机友方"
+  },
+  {
+    "cardName": "恐怖番茄",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e92839091fc74d239064b7780f33c09d-图层 14.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "所有友方在触发成长效果时都会获得+1+2"
+  },
+  {
+    "cardName": "古树",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/16626a30150344dc9db94433e292f25f-图层 13.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "附着，成长：+1经验"
+  },
+  {
+    "cardName": "石精灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/石精灵.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "3",
+    "desc": "随从牌进入手牌时，使其获得+1+3"
+  },
+  {
+    "cardName": "黑玫瑰",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a17261f2af71453889c13e8c4f245491-1698736444822.jpg",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "受到伤害时，同排友方获得遗言：对随机敌方造成3点伤害"
+  },
+  {
+    "cardName": "曼德拉草",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/曼德拉草.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "战斗结束后，移除这张牌，获得3张随机入场牌"
+  },
+  {
+    "cardName": "林地看守",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1d5c114e2c1a49ac978f380fcdb525d5-图层 7.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "卖出其他随从时，获得1点经验"
+  },
+  {
+    "cardName": "自然仙灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2e5d1b176b2d4eeca7c9aa45de4df064-1698736183327.jpg",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "附着，成长：获得+1+3"
+  },
+  {
+    "cardName": "苔藓骑士",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/425a563e3fd74a58b96b818cffc290eb-苔藓骑士.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "友方受伤后，该随从获得+1+2"
+  },
+  {
+    "cardName": "花匠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d70b15c9b6a74d50a110b16fba98ace6-图层 9.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "遗言：获得1张施肥（触发一个友方成长）"
+  },
+  {
+    "cardName": "沐恩树灵",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/70e1f2eeaa7a4caf9b810e5121acd6f2-沐恩树灵.jpg",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "4",
+    "desc": "冥想2回合：所有友方获得+2+2并触发成长效果"
+  },
+  {
+    "cardName": "孢子小姐",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/16f3dfd804bd49a0b131f0cd2d00626e-孢子小姐.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "5",
+    "desc": "失去生命且未死亡时，获得护盾"
+  },
+  {
+    "cardName": "蘑菇长老",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蘑菇长老.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "5",
+    "desc": "成长：所有金色的友方获得+2+4"
+  },
+  {
+    "cardName": "孢子女巫",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/孢子女巫.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "5",
+    "desc": "入场：随机使1个不高于3星的友方变为金色"
+  },
+  {
+    "cardName": "石精巨兽",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7b3b842a35694f7696b25e2ff8407c31-图层 12.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "5",
+    "desc": "嘲讽，被攻击时，先对其他随从造成1点伤害"
+  },
+  {
+    "cardName": "梦境之树",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/梦境之树.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "6",
+    "desc": "当你卖出1张随从牌，所有友方获得+1+1"
+  },
+  {
+    "cardName": "蘑菇国王",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/蘑菇国王.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "6",
+    "desc": "成长：获得1张随机自然族牌"
+  },
+  {
+    "cardName": "捕萤草",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/42b871790930445d8f857713f745cd62-捕蝇草.png",
+    "type": "随从",
+    "race": "自然",
+    "rarity": "6",
+    "desc": "卖出随从时，获得其一半属性值"
+  },
+  {
+    "cardName": "剑术导师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/480eb352c64c40909dcd6ffdcc383fdd-剑术大师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "将商店1个随从置入手牌，并使其属性值翻倍"
+  },
+  {
+    "cardName": "厨师学徒",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/厨师学徒.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "获得1张随机料理牌"
+  },
+  {
+    "cardName": "鼹鼠奸商",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鼹鼠奸商.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "移除1个友方，本回合下次购买不消耗金币"
+  },
+  {
+    "cardName": "独眼调查员",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/独眼调查员.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:所有友方获得1层疯狂，你总是最先发起攻击"
+  },
+  {
+    "cardName": "掌灯者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/掌灯者.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "将1个不超过3星的随从变为金色，每局游戏限2次"
+  },
+  {
+    "cardName": "精灵女王",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/daa2903d671e4fd5bc91427e8116ee54-1.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "使1个友方+2+1并触发成长效果"
+  },
+  {
+    "cardName": "幽灵狗",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/幽灵狗.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "移除友方或商店的1个随从，使你购买的下1个随从获得其属性值"
+  },
+  {
+    "cardName": "影魔",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/影魔.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "战斗开始时，获得对手星级最高的随从的原始复制并召唤到场上"
+  },
+  {
+    "cardName": "追梦旅人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/追梦旅人.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:场上首次拥有6个友方时，挑选1个5星随从"
+  },
+  {
+    "cardName": "占卜师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/占卜师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "挑选1张当前等级的咒术（等级2解锁）"
+  },
+  {
+    "cardName": "能量装置",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/能量装置.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:每回合额外获得1点经验"
+  },
+  {
+    "cardName": "铸剑工匠",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/铸剑工匠.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "挑选1张当前等级的装备。（等级2解锁）"
+  },
+  {
+    "cardName": "雷精灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雷精灵.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:购买1张牌后，本回合下次刷新消耗金币为0"
+  },
+  {
+    "cardName": "机械魔术师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/机械魔术师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "获得最左侧手牌的原始复制，每局游戏限3次。"
+  },
+  {
+    "cardName": "狼王",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/狼王.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:友方具有击杀:永久+1+1"
+  },
+  {
+    "cardName": "天才发明家",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/天才发明家.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:升级后，额外获得1张升级奖励"
+  },
+  {
+    "cardName": "黑天鹅",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑天鹅.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "选择1个商店的卡牌或场上的随从，将它移到手中"
+  },
+  {
+    "cardName": "掘墓人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/掘墓人.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:出售4个随从后，获得随机当前等级的随从"
+  },
+  {
+    "cardName": "乞讨者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/乞讨者.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:若你在回合结束时没有金币，则在下回合额外获得2金币"
+  },
+  {
+    "cardName": "调酒师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/调酒师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:升级后，每有1个不同阵营的友方，获得1金币"
+  },
+  {
+    "cardName": "皇家指挥官",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/皇家指挥官.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:跳过你的首个回合，升级后，获得1张当前等级的随从"
+  },
+  {
+    "cardName": "古堡三杰",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/古堡三杰.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "挑选1个当前等级的随从，每局游戏限3次"
+  },
+  {
+    "cardName": "齿轮绅士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/齿轮绅士.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "永久使商店中的随从获得+1+1"
+  },
+  {
+    "cardName": "魔法树丛",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔法树丛.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:升级后，所有友方获得等同于等级的生命"
+  },
+  {
+    "cardName": "火精灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/火精灵.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:刷新商店后，第1个友方获得+1+1"
+  },
+  {
+    "cardName": "流浪佣兵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/流浪佣兵.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:购买中立阵营随从时，获得1金币"
+  },
+  {
+    "cardName": "地灵监工",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/地灵监工.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "使1个友方获得+2+2，友方属性值提升15次后升级"
+  },
+  {
+    "cardName": "鱼美人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鱼美人.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:友方获得属性值时，额外+1生命"
+  },
+  {
+    "cardName": "缝合怪",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/缝合怪.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "选择1个友方，下次战斗开始时，其会附着给同列的另1个友方"
+  },
+  {
+    "cardName": "黑猫",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑猫.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "本回合下1张咒术牌生效2次"
+  },
+  {
+    "cardName": "杂货商人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/杂货商人.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "刷新商店，出现当前等级的装备、随从、咒术各一个（等级2解锁）"
+  },
+  {
+    "cardName": "占星师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/占星师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "观星：挑选1张1星随从，下次本技能挑选星级+1。挑选6星后失效"
+  },
+  {
+    "cardName": "批发商人",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/批发商人.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:每回合首次购买后，本回合剩余购买只需2金币！"
+  },
+  {
+    "cardName": "森灵",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/森灵.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "使1个友方获得+1+1，并吸取其他友方一半属性值"
+  },
+  {
+    "cardName": "星雷女巫",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/星雷女巫.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "选择1个友方，与其相同攻击的友方都获得+1+1"
+  },
+  {
+    "cardName": "变色龙大师",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/变色龙大师.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "被动:在你三连后，获得3金币"
+  },
+  {
+    "cardName": "暴风女士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/暴风女士.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "开局以及升级商店时，获得1张小雪宝"
+  },
+  {
+    "cardName": "鲨鱼恶霸",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鲨鱼恶霸.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "使1个随从的攻击变为8点（升级商店后，额外+4点）"
+  },
+  {
+    "cardName": "小猫进货商",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/be9911b587014a8bb8d8c1f929ba639f-小猫店主.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "卖出1个随从，获得1个原始复制"
+  },
+  {
+    "cardName": "黑市商贩",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/黑市商贩.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "选择1个友方，刷出与之相同阵营的随从"
+  },
+  {
+    "cardName": "驯鹿勇士",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/驯鹿勇士.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "使一个随从获得+2+2，然后令其攻击或生命增加，直到二者相等"
+  },
+  {
+    "cardName": "贪婪地精",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/925e9056810b4ad58460b84a13ef6733-微信图片_20240115212006.jpg",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "当你卖出随从时，获得1点经验"
+  },
+  {
+    "cardName": "小猪建筑师",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/296b92efd60f4926939e6a15bbc9316e-微信图片_20240115214326.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "本轮战斗英雄受到伤害-10，每局游戏限3次"
+  },
+  {
+    "cardName": "玩具商贩",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8b18be84a8b540ee86431e0a63fb1832-2.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "选择1个友方，下次战斗开始时，召唤其1/1的复制"
+  },
+  {
+    "cardName": "蜡烛人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b0f61800957e4578a616c81cfe72fe33-3.png",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "失去2生命，获得1张\"火焰\"（咒术：挑选1张随从牌）"
+  },
+  {
+    "cardName": "圣诞矮人",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/6fd8d1273a2e4e5fb1d2904cd238c97a-微信图片_20240115212022.jpg",
+    "type": "英雄",
+    "race": "",
+    "rarity": "",
+    "desc": "随机召唤1个不超过当前等级的随从，使其变为1/1"
+  },
+  {
+    "cardName": "稳固攻击【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0b8deb76fd6d4fb6818fb42eb96d1981-图层 4.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "使1个友方+5攻击"
+  },
+  {
+    "cardName": "饱食【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【2】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "使1个友方获得+2+2"
+  },
+  {
+    "cardName": "生命庇护【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【2】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "使1个友方+4生命"
+  },
+  {
+    "cardName": "头脑风暴【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【2】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "获得2点经验"
+  },
+  {
+    "cardName": "响指【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/响指【2】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "召唤1个1/1的随机随从"
+  },
+  {
+    "cardName": "上发条【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/上发条【2】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "使商店的1个随从获得+3+3"
+  },
+  {
+    "cardName": "帽子戏法【2】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/320c2445d0d947469e359832b7190a88-33-7.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "使1个随从变为4/4"
+  },
+  {
+    "cardName": "许愿",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/be868f0eae7d4be6993c7203fef98361-1703585778366.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "将商店1个随从变形为+1星随从"
+  },
+  {
+    "cardName": "上锁的日记[2]",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/32a2bfbeb4154af3b78c65bed4127ff3-图层 6.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "2",
+    "desc": "在升级到3级后才能使用，挑选一张3星咒术"
+  },
+  {
+    "cardName": "护甲师【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/6af3928aab64422282ebe10aff81d089-图层 3.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "所有友方+3生命"
+  },
+  {
+    "cardName": "力量祝福【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/力量祝福【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "所有友方获得+1+1+1+1"
+  },
+  {
+    "cardName": "饱食【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个友方获得+3+3"
+  },
+  {
+    "cardName": "剑术训练【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/67836c8a653446628a1912c96b6ec7df-图层 18.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "所有友方+3攻击"
+  },
+  {
+    "cardName": "生命庇护【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个友方+6生命"
+  },
+  {
+    "cardName": "稳固攻击【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a30e54d1c78e4c50b8c58c2e769c066d-图层 16.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个友方+8攻击"
+  },
+  {
+    "cardName": "头脑风暴【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "获得3点经验"
+  },
+  {
+    "cardName": "贤者之石【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个1星的随从变为金色"
+  },
+  {
+    "cardName": "异变之力",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/异变之力.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个友方变形为+1星级的随从"
+  },
+  {
+    "cardName": "拧紧螺栓【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/238cc6d18c6f45c4bd8ff2c3625cadba-34-4.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "永久使商店所有随从获得+1+1"
+  },
+  {
+    "cardName": "丛林探险【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "挑选1张2星随从"
+  },
+  {
+    "cardName": "量产工厂【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "选择1个1星的随从，获得1张它的原始复制"
+  },
+  {
+    "cardName": "绝妙藏品【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【3】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "挑选1张2星装备牌"
+  },
+  {
+    "cardName": "吞没【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/bf40f6c8142342f687f5ac5711c8e35d-图层 2.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个友方获得击杀：永久+1+1"
+  },
+  {
+    "cardName": "帽子戏法【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8c0525a872804071b24ddf31f7b46c23-34-5.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "使1个随从变为6/6"
+  },
+  {
+    "cardName": "骨卜【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c3740dab4cc24293a9f0287e2628468d-35-6.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "移除1个友方，挑选1个3星随从"
+  },
+  {
+    "cardName": "招募令【3】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/bd22d1302a784047820df317e8794812-QQ浏览器截图20240223210733.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "获得2张随机1星随从牌"
+  },
+  {
+    "cardName": "抽奖",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/fc59d5b5c8704f5bb620d5811357dcb7-1703585834075.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "随机获得商店1张牌"
+  },
+  {
+    "cardName": "上锁的日记[3]",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/564f83059da540bfb31defd9add79045-图层 14.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "3",
+    "desc": "在升级到4星后才能使用，挑选1张4星咒术"
+  },
+  {
+    "cardName": "稳固攻击【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2369ea7b8831438ca434461aaef03fca-图层 10.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方+11攻击"
+  },
+  {
+    "cardName": "护甲师【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f7d62b0d73ce4894abce41ca1c09b65d-图层 17.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "所有友方+4生命"
+  },
+  {
+    "cardName": "饱食【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/饱食【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得+4+4"
+  },
+  {
+    "cardName": "剑术训练【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/60cc713814ac4e52bb179bf6152f98bf-图层 5.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "所有友方+4攻击"
+  },
+  {
+    "cardName": "生命庇护【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生命庇护【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方+8生命"
+  },
+  {
+    "cardName": "头脑风暴【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得4点经验"
+  },
+  {
+    "cardName": "贤者之石【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个不超过2星的随从变为金色"
+  },
+  {
+    "cardName": "理财能手【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/理财能手【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得成长：获得1金币"
+  },
+  {
+    "cardName": "炸弹【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/359ccf5a2ba74281a97799c19123535c-图层 2.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得遗言：造成5点伤害"
+  },
+  {
+    "cardName": "火球术【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/25f7b7f6240340eeb52c0ce1aa408c7b-图层 3.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得先手：造成5点伤害"
+  },
+  {
+    "cardName": "丛林探险【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "挑选1张3星随从"
+  },
+  {
+    "cardName": "精挑细选【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "接下来3次刷新免费"
+  },
+  {
+    "cardName": "绝妙藏品【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "挑选1张3星装备牌"
+  },
+  {
+    "cardName": "加速【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/加速【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "触发1个友方的成长效果，并使其获得+2+2"
+  },
+  {
+    "cardName": "上发条【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/上发条【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使商店的1个随从获得+6+6"
+  },
+  {
+    "cardName": "响指【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/响指【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "召唤2个2/2的随机随从"
+  },
+  {
+    "cardName": "量产工厂【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "选择1个不超过2星的随从，获得1张它的原始复制"
+  },
+  {
+    "cardName": "抽奖箱",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/抽奖箱.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "刷新商店，并使刷出的随从属性值翻倍"
+  },
+  {
+    "cardName": "生长【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/生长【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得成长：+2生命"
+  },
+  {
+    "cardName": "激励【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/激励【4】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个友方获得成长：+2攻击"
+  },
+  {
+    "cardName": "从零开始【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/57b0a8fffe884a069d95a6dbf12d1cdc-图层 2.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个随从变为1/1并获得成长：+3+3"
+  },
+  {
+    "cardName": "帽子戏法【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e0194dfeb03e49cba817728a2a0e20c1-图层 6.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使1个随从变为9/9"
+  },
+  {
+    "cardName": "骨卜【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/499d8be173ba4dc4833e7d2a27a25bc8-38-3.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "移除1个友方，挑选1个4星随从"
+  },
+  {
+    "cardName": "健美大赛",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0dbfe60d32764527bd29e43a092e99e2-38-5.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得2金币，每存在1个攻击力不低于10的友方，额外获得1金币"
+  },
+  {
+    "cardName": "招募令【4】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b9213b864db04564aa2302217c88b652-QQ浏览器截图20240223210745.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得3张随机2星随从牌"
+  },
+  {
+    "cardName": "剑术陪练",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9e06f82d597f4e38be9f9b5205c54042-图层 5.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "使商店1个随从属性值翻倍"
+  },
+  {
+    "cardName": "吹嘘",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/4c23995b9c8e4d3ab4c52d9b298eb6a1-1703585918929.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得1张随机入场牌"
+  },
+  {
+    "cardName": "原始法则",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/58d7619731e0411dab2158c64d4903a4-图层 11.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个随从+3+3，然后令其攻击力或者生命增加，直到2者相等。"
+  },
+  {
+    "cardName": "饱食【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/cc8e4b7eb63e46d5b22dcd8a3cd2f9fa-图层 6.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个友方获得+7+7"
+  },
+  {
+    "cardName": "力量祝福【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/力量祝福【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "所有友方获得+2+2+2+2"
+  },
+  {
+    "cardName": "护甲师【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/612b220ec8f7450896764f9d624b68c8-图层 12.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "所有友方+5生命"
+  },
+  {
+    "cardName": "剑术训练【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2959774def8c41c88e28af50c82f2ebe-图层 10.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "所有友方+5攻击"
+  },
+  {
+    "cardName": "头脑风暴【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/头脑风暴【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得5点经验"
+  },
+  {
+    "cardName": "迷失森林【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/迷失森林【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得1张随机5星随从牌"
+  },
+  {
+    "cardName": "精挑细选【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "接下来4次刷新免费"
+  },
+  {
+    "cardName": "法力源泉",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c16a64a10df84b5b81ac83b291457796-图层 10.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个友方获得2层增伤"
+  },
+  {
+    "cardName": "贤者之石【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/贤者之石【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个不超过3星的随从变为金色"
+  },
+  {
+    "cardName": "绝妙藏品【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "挑选1张4星装备牌"
+  },
+  {
+    "cardName": "招募强者",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/招募强者.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "刷新商店，出现3个当前等级的物品"
+  },
+  {
+    "cardName": "拧紧螺栓【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/56822ac8a33546178549c16a1ab0d7be-1703659966350.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "永久使商店所有随从获得+2+2"
+  },
+  {
+    "cardName": "丛林探险【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "挑选1张4星随从"
+  },
+  {
+    "cardName": "巧夺",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/巧夺.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "挑选你上个对手的1个随从的原始复制"
+  },
+  {
+    "cardName": "最后的希望",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/最后的希望.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "用随机随从填满你的战场"
+  },
+  {
+    "cardName": "捡漏",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/捡漏.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得当前商店的所有卡牌"
+  },
+  {
+    "cardName": "加速【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/加速【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "触发1个友方的成长效果，并使其获得+4+4"
+  },
+  {
+    "cardName": "挖掘宝物",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/挖掘宝物.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个友方获得：攻击时，获得1金币"
+  },
+  {
+    "cardName": "雕像",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/651e08ddc82b4dc58ccb918bacbec09b-图层 11.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个随从获得无法攻击，然后使所有无法攻击的友方+3+6"
+  },
+  {
+    "cardName": "吞没【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8d081cdea983436e9ee6a2d55337d4b0-图层 8.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个友方获得击杀：永久+2+2"
+  },
+  {
+    "cardName": "量产工厂【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "选择1个不超过3星的随从，获得1张它的原始复制"
+  },
+  {
+    "cardName": "恶魔天平",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/恶魔天平.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "移除1个随从，第1个友方获得其属性值"
+  },
+  {
+    "cardName": "不稳定克隆",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/不稳定克隆.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "移除1个友方，获得2张相同星级的随机随从牌"
+  },
+  {
+    "cardName": "发财【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/发财【5】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得2金币，每存在1个金色友方，额外获得2金币"
+  },
+  {
+    "cardName": "从零开始【5】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7e92bef5e3d14867afb09bbfbdd11c19-图层 16.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "使1个随从变为1/1并获得成长：+4+4"
+  },
+  {
+    "cardName": "三头六臂",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/三头六臂.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得1张友方类型的随机附着牌"
+  },
+  {
+    "cardName": "考古学",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/ee6442cb70d54400a79a2dd91ee67766-1703585946525.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "选择1个友方，挑选1张其阵营的随从牌"
+  },
+  {
+    "cardName": "命悬一线[5]",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/305ac8244a92433b9e6ced9577809561-1703586176469.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "将你的生命值变为1，获得12金币"
+  },
+  {
+    "cardName": "奇妙探险",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/85c96d560f2f46219b188275795f0ec0-QQ浏览器截图20240223210755.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "5",
+    "desc": "挑选1张入场牌"
+  },
+  {
+    "cardName": "饱食【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/c2bf6ac8403044b092362ed831d37f9c-图层 7.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得+10+10"
+  },
+  {
+    "cardName": "迷失森林【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/迷失森林【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "获得1张随机6星随从牌"
+  },
+  {
+    "cardName": "精挑细选【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/精挑细选【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "接下来5次刷新免费"
+  },
+  {
+    "cardName": "鬼牌",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鬼牌.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "获得最左边手牌的原始复制"
+  },
+  {
+    "cardName": "量身定做",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量身定做.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得1个装备槽"
+  },
+  {
+    "cardName": "魔术怀表",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔术怀表.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "触发所有友方的成长效果"
+  },
+  {
+    "cardName": "千刀万剐",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/千刀万剐.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得疯狂"
+  },
+  {
+    "cardName": "理财能手【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/理财能手【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得成长：获得2金币"
+  },
+  {
+    "cardName": "绝妙藏品【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/绝妙藏品【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "挑选1张5星装备牌"
+  },
+  {
+    "cardName": "炸弹【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/524b0b6b79ef4402aa10ebc6685baeff-图层 9.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得遗言：造成5点伤害2次"
+  },
+  {
+    "cardName": "火球术【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/08a0a44fa5e7434cae9490246914f6cd-图层 8.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得先手：造成5点伤害2次"
+  },
+  {
+    "cardName": "丛林探险【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/丛林探险【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "挑选1张5星随从"
+  },
+  {
+    "cardName": "量产工厂【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/量产工厂【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "选择1个不超过4星的随从，获得1张它的原始复制"
+  },
+  {
+    "cardName": "神圣祝福",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/神圣祝福.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "使1个友方获得护盾"
+  },
+  {
+    "cardName": "发财【6】",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0a1efcfda74745e4ba925425ddc59e31-发财【6】.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "获得3金币，每存在1个金色友方，额外获得2金币"
+  },
+  {
+    "cardName": "血瓶",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/血瓶.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "英雄每已损失1生命，使1个友方+1生命"
+  },
+  {
+    "cardName": "命悬一线[6]",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/命悬一线.png",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "将你的生命值变为1，获得16金币"
+  },
+  {
+    "cardName": "许愿神灯",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/597d35303567402093dd659804c5274e-1703586214259.jpg",
+    "type": "咒术",
+    "race": "",
+    "rarity": "6",
+    "desc": "挑选1张咒术牌，下回合获得1张许愿神灯"
+  },
+  {
+    "cardName": "圆盾",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/4c29e1997a2049cdbad5dfa92e673091-图层 3.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "+10生命"
+  },
+  {
+    "cardName": "短剑",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/711157b27e774d778cf1be2fbda87e34-图层 4.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "+10攻击"
+  },
+  {
+    "cardName": "活力护符",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9bd2674ed38340f796388fd69a6a122a-图层 7.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "获得+5+5"
+  },
+  {
+    "cardName": "研究图纸",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/研究图纸.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "成长：获得1点经验"
+  },
+  {
+    "cardName": "伐木斧",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/b23632cfc36d48478f0efd6303649ca3-图层 5.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "获得+2+2攻击时，永久获得+1+1"
+  },
+  {
+    "cardName": "刃弩",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/3a4f6a9992974a4faa1d3d1accd8d887-图层 2.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "2",
+    "desc": "获得+2+2，先手：造成3点伤害"
+  },
+  {
+    "cardName": "月光法典",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7180ac336b184e6f9739fa0682bf6bed-图层 15.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "成长：获得+2+2"
+  },
+  {
+    "cardName": "护盾",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/护盾.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "护盾"
+  },
+  {
+    "cardName": "尖刺壁垒",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/尖刺壁垒.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "无法攻击获得+2+8"
+  },
+  {
+    "cardName": "生命护符",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/eb8de908d54d439789d6c0a99861b04d-图层 13.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "成长：+4生命"
+  },
+  {
+    "cardName": "死亡钟摆",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/死亡钟摆.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "友方死亡后，该随从获得+2+2"
+  },
+  {
+    "cardName": "死神之镰",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/7740057534e5432d99aed988cace3fb4-图层 12.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "成长：+4攻击"
+  },
+  {
+    "cardName": "火苗",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/火苗.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "2层增伤"
+  },
+  {
+    "cardName": "殉道护符",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/殉道护符.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "3",
+    "desc": "嘲讽获得+4+4"
+  },
+  {
+    "cardName": "速度之靴",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/速度之靴.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "疯狂"
+  },
+  {
+    "cardName": "玩具长枪",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/玩具长枪.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "攻击5击杀：永久获得+1+1"
+  },
+  {
+    "cardName": "弹幕射击",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弹幕射击.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "攻击后，对随机3个敌方造成4点伤害"
+  },
+  {
+    "cardName": "暗藏炸弹",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/暗藏炸弹.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "遗言：对随机3个敌方造成4点伤害"
+  },
+  {
+    "cardName": "双头剑",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f1432aa9c2324a7685972100f117b6f4-1703585379304.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "先手：+20攻击，-10生命"
+  },
+  {
+    "cardName": "重斧",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/重斧.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "攻击20该随从攻击后攻击-10"
+  },
+  {
+    "cardName": "盾墙",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/盾墙.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "无法攻击，嘲讽获得+5+5"
+  },
+  {
+    "cardName": "法力护盾",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2234fddab7514b0fa370224e347db40c-法力护盾.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "护盾，每当1个友方随从失去护盾该随从获得+2+2"
+  },
+  {
+    "cardName": "金匕首",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/金匕首.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "成长：每有一个金色友方，获得+1+2"
+  },
+  {
+    "cardName": "流血箭",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/流血箭.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "3层增伤"
+  },
+  {
+    "cardName": "幽暗烛光",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/05e311af6aad409aa13c6603fc0ec734-1698736836294.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "受伤后，永久+1+1"
+  },
+  {
+    "cardName": "剧毒匕首",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/328ccdeddeb04aa29a11a75114b060b0-1703585424983.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得+4+4攻击后，对目标造成4点伤害4次"
+  },
+  {
+    "cardName": "带毒藤蔓",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/a7203c5219b24dc8ab5293b4fb06762c-图层 18.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "获得+4+4受到伤害时获得2层增伤"
+  },
+  {
+    "cardName": "提灯",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/40f62f0753a84eb0bb5f3c9b437f923a-1703585411900.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "先手:如果本随从未超过3星，变为金色"
+  },
+  {
+    "cardName": "彼岸花",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/8718e43af3c04f1d930e44490bed6ec7-图层 3.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "友方死亡时，本随从永久+1+1"
+  },
+  {
+    "cardName": "朴素法袍",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d8a1fdf7e69748a0ad0da5a3192e59b7-图层 6.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "2层增伤每造成2次伤害永久获得+1+1"
+  },
+  {
+    "cardName": "快刀",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/790516df53a94d6eb637f89e42d0af9d-1703585354732.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "本随从触发先手效果时，获得+7+7"
+  },
+  {
+    "cardName": "凡人的意志",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/195dbec0aad242e6b9c7293f7d96fba5-图层 7.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "成长：获得等同于（6-本随从星级）的属性值"
+  },
+  {
+    "cardName": "塔盾",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/0ddab60e63014d30bce4e06300b9208d-图层 4.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "4",
+    "desc": "先手：-10攻击，+20生命"
+  },
+  {
+    "cardName": "亡者之盾",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡者之盾.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "友方遗言触发时，该随从获得+2+2"
+  },
+  {
+    "cardName": "焊接器",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/焊接器.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "该随从在战斗中获得属性值时改为永久获得在战斗后移除该装备"
+  },
+  {
+    "cardName": "巨大化",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/02f14c1f2fd74724a60db0c8a6f53aaf-2.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得+4+4每附着了1个随从额外获得+4+4"
+  },
+  {
+    "cardName": "魔术棒",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/魔术棒.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "攻击时，使对方获得-8-8"
+  },
+  {
+    "cardName": "法力翡翠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/422c8151083e420eaaa7d1b5a57bfd39-图层 15.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "成长：获得1层增伤"
+  },
+  {
+    "cardName": "尖刺羽毛",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/尖刺羽毛.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "4层增伤"
+  },
+  {
+    "cardName": "战斗法杖",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/战斗法杖.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "该随从每有1层增伤，获得+5+5"
+  },
+  {
+    "cardName": "潜行者手套",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/5fad65e10aff4605b1f493f3262a9e31-潜行者手套.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "攻击+10，击杀：获得1金币"
+  },
+  {
+    "cardName": "弹弓",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/弹弓.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "友方死亡后，该随从获得2层增伤"
+  },
+  {
+    "cardName": "袖箭",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/f66672679c91429c89fecb98195fec3f-1.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "攻击时，先对目标造成5点伤害2次"
+  },
+  {
+    "cardName": "长弓",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/长弓.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "攻击时受到伤害减半"
+  },
+  {
+    "cardName": "恶魔刀刃",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/恶魔刀刃.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "友方攻击时，该随从获得+4+4"
+  },
+  {
+    "cardName": "助推器",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/助推器.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "成长：获得+6+6在战斗后移除该装备"
+  },
+  {
+    "cardName": "寒冰咒文书",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/9b3370f2b90d45258b473f76f3c69259-1703660432717.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "2层增伤，受到该随从伤害的敌人-3攻击"
+  },
+  {
+    "cardName": "风之石",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/风之石.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "疯狂获得+4+4"
+  },
+  {
+    "cardName": "重型弩炮",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/重型弩炮.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "对敌方后排随从造成的伤害翻倍"
+  },
+  {
+    "cardName": "自然印记",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/1859ef51135a45628f2412d0b9b7f82f-自然印记.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "击杀：所有友方永久获得+1+1"
+  },
+  {
+    "cardName": "发电机",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2fbe91143cf64a91b32f834879e89363-1703585482398.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "2层增伤，每造成4次伤害，获得1金币"
+  },
+  {
+    "cardName": "沉重背包",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d1b8d1f661994503b3102383fb81ea03-1703585468150.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "成长:每有1个空的装备槽，获得+4+4"
+  },
+  {
+    "cardName": "旗帜长枪",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/eaef4dc35dc84912828e84d1dfae6ae0-1703585500951.jpg",
+    "type": "装备",
+    "race": "",
+    "rarity": "5",
+    "desc": "获得+5+5友方具有+2攻击"
+  },
+  {
+    "cardName": "满月",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/d1b5ddfb34cc44a5b410cdb4d8ea9f67-满月.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "护盾，该随从失去护盾后获得+10+10"
+  },
+  {
+    "cardName": "殉道铠甲",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/e84ea7bf1f5246529430f140c26c6b9c-图层 4.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "护盾嘲讽"
+  },
+  {
+    "cardName": "旋风斧",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/旋风斧.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "造成伤害时，所有友方1攻击"
+  },
+  {
+    "cardName": "天使手镜",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/天使手镜.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "护盾该随从可以拥有多层护盾"
+  },
+  {
+    "cardName": "反射镜",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/03c4367b99914279b39f3b55b73f8d51-反射镜.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "受到伤害时，对随机敌方造成一半伤害"
+  },
+  {
+    "cardName": "飓风法杖",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飓风法杖.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "其他友方攻击时，该随从获得其一半攻击力"
+  },
+  {
+    "cardName": "亡灵饼干",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/亡灵饼干.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "该随从的遗言效果额外触发1次"
+  },
+  {
+    "cardName": "怀表",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/怀表.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "该随从的成长效果额外触发1次"
+  },
+  {
+    "cardName": "猪皮背包",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/猪皮背包.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "装备槽+2"
+  },
+  {
+    "cardName": "远古十字架",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/远古十字架.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "成长：10生命"
+  },
+  {
+    "cardName": "雷刃",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/雷刃.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "攻击后，所有友方获得2层增伤"
+  },
+  {
+    "cardName": "鹿角",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/鹿角.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "所有友方具有2层增伤"
+  },
+  {
+    "cardName": "护身符",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/护身符.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "30生命"
+  },
+  {
+    "cardName": "飞斧",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/飞斧.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "攻击后，随机2个其他友方获得该随从一半的攻击力"
+  },
+  {
+    "cardName": "斩龙斧",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/斩龙斧.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "成长：10攻击"
+  },
+  {
+    "cardName": "鬼摇铃",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/2882eb3fc622445c9d1fd9d70a4afd6f-44.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "获得+7+7本随从击杀效果额外触发1次"
+  },
+  {
+    "cardName": "灼热斗篷",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/灼热斗篷.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "被攻击时，先对攻击者造成2点伤害2次"
+  },
+  {
+    "cardName": "灵魂结晶",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/36c4d91b04064d81a11aa55c8121ae1c-灵魂结晶.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "先手：对随机3个敌方造成4点伤害，并获得伤害值等量的生命"
+  },
+  {
+    "cardName": "龙之宝珠",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/462422401c5741a89689322106d566a5-30-8.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "该随从的先手效果额外触发1次"
+  },
+  {
+    "cardName": "疯狂头骨",
+    "cardImgSrc": "https://pic.iyingdi.com/nofm-card-import/yingdiimg/S0/疯狂头骨.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "疯狂该随从每有1层疯狂，获得+5+5"
+  },
+  {
+    "cardName": "女巫坩埚",
+    "cardImgSrc": "https://pic.iyingdi.com/gadgets-admin/undefined/180ddaf0226b484abe8ba3cd751aa8c4-图层 19.png",
+    "type": "装备",
+    "race": "",
+    "rarity": "6",
+    "desc": "2层增伤，先手:每装备1张装备牌，获得1层增伤"
+  }
+]

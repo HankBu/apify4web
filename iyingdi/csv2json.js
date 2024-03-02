@@ -3,24 +3,10 @@ import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import Papa from 'papaparse';
 
-const allCards = [];
-// const moonDataset = await Dataset.open('moon_240227');
-// await moonDataset.forEach(async (item, index) => {
-//   allCards.push(item);
-// });
-// const csvData = Papa.unparse(allCards);
-// const utf8WithBom = '\ufeff' + csvData;
-// const currentDir = dirname(fileURLToPath(import.meta.url));
-// const outputPath = join(currentDir, 'iyingdi_final.csv');
-// try {
-//   fs.writeFileSync(outputPath, utf8WithBom, 'utf8');
-//   console.log('CSV file saved.');
-// } catch (error) {
-//   console.error('Error writing CSV file:', error);
-// }
 const currentDir = dirname(fileURLToPath(import.meta.url));
-const outputPath = join(currentDir, 'iyingdi_final.csv');
-fs.readFile(outputPath, 'utf8', (error, csvData) => {
+const readPath = join(currentDir, 'iyingdi_final.csv');
+const outputPath = join(currentDir, 'iyingdi_final.json');
+fs.readFile(readPath, 'utf8', (error, csvData) => {
   if (error) {
     throw error;
   }
@@ -28,6 +14,16 @@ fs.readFile(outputPath, 'utf8', (error, csvData) => {
     header: true,
     complete: (results) => {
       console.log('CSV data as JSON:', results.data);
-    }
+      // 将 JSON 对象转换为字符串
+      const jsonString = JSON.stringify(results.data, null, 2);
+      // 异步保存 JSON 字符串到文件
+      fs.writeFile(outputPath, jsonString, (err) => {
+        if (err) {
+          console.error('Error writing file:', err);
+        } else {
+          console.log('File written successfully');
+        }
+      });
+    },
   });
 });
